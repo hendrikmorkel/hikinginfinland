@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: skiing | Hiking in Finland]]></title>
+  <link href="http://hikinginfinland.com/hikinginfinland/blog/categories/skiing/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com/hikinginfinland/"/>
+  <updated>2016-12-19T14:22:12+02:00</updated>
+  <id>http://hikinginfinland.com/hikinginfinland/</id>
+  <author>
+    <name><![CDATA[Hendrik Morkel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Arc'teryx Voltair Avalanche Airbag]]></title>
+    <link href="http://hikinginfinland.com/hikinginfinland/2015/12/arcteryx-voltair-avalanche-airbag.html"/>
+    <updated>2015-12-16T23:18:00+02:00</updated>
+    <id>http://hikinginfinland.com/hikinginfinland/2015/12/arcteryx-voltair-avalanche-airbag</id>
+    <content type="html"><![CDATA[<p>The second big news from last weeks <a href="http://arcteryx.com">Arc’teryx</a> media event in Vancouver was the launch of the Voltair Avalanche Airbag. As I was able to use and deploy it over three days in the Canadian backcountry what follows are more insights on this game-changing avalanche airbag.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716165196/in/dateposted/" title="Arc’teryx Designer Gord Rose skiing with his creation, the Voltair Avalanche Airbag"><img src="https://farm6.staticflickr.com/5734/23716165196_6633e02f0d_b.jpg" width="1024" height="683" alt="Arc’teryx Designer Gord Rose skiing with his creation, the Voltair Avalanche Airbag" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<!-- more -->
+
+<h2 id="the-tech">The Tech</h2>
+
+<p>No, it has no similarities with the JetForce Technology. Both are powered by a battery, but that’s already what these two technologies have in common. And the Arc’teryx Voltair Avalanche Airbag battery allows the bag to be deployed up to 8 times on a fully charged battery, which is two times as often as the Jetforce lets you deploy the ballon. It’s even more at warmer temperatures, and less at -30°C - but then again, not many will be out skiing at -30°C.</p>
+
+<p>Gordon Rose started to dabble in Avalanche packs around ten years ago, but the Voltair project started in February 2010 for real. Since then Gordon and his colleague Peter Hill, who is responsible for the backpack part of the Voltair, have been working on this avalanche pack. The inspiration for Gordon came from RC Models - he and a colleague where talking about how fast model planes can go, the short comings of compressed gas airbag, and saw possibilities of RC Technology for avalanche bags. Gordon went through many tests of propellor and centrifugal blowers until he settled on a mixed flow centrifugal blower. Advanced Design Technology in London, UK, helped him and Arc’teryx design the optimal propellor and after 21 designs and tests they had the perfect one for their pack.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23447243040/in/dateposted/" title="Gordon Rose with the tech guts of the Voltair Avalanche Airbag"><img src="https://farm6.staticflickr.com/5798/23447243040_c612e0e1b1_b.jpg" width="1024" height="683" alt="Gordon Rose with the tech guts of the Voltair Avalanche Airbag" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The next step was to get the battery right. Gordon settled on a Lithium Polymer battery design as these work well at cold temperatures and are the most efficient. Powertraveller helped design and manufacture the battery, and the one in the Voltair now allows you to deploy the ballon up to 8 times at -15°C - more at warmer temperatures, less at -30°C. The benefit of this should be obvious: It allows you to practice to deploy the airbag. If you know how it behaves, you’re less likely to hesitate to pull the trigger and deploy the ballon. Each of us popped the ballon a couple of times in a test environment, and then up in the mountains again. In the case of an avalanche this means you don’t wait and pull the trigger and deploy the ballon. The battery is charged via a cable and goes from empty to full in 2,5 hours, and weighs 800 g - a weight that Arc’teryx hopes to improve in the future.</p>
+
+<p>For the release trigger Arc’teryx decided to use a mechanical system - while the possibility to use an electronic system is tempting, they decided in harsh conditions there’s just too much which can go wrong with a electronic release, and a reliable pull trigger is the best way to go. The Trigger is easy to unlock, but even in a locked position it is easy to release the ballon with just a small twist. The trigger is custom-molded and easy to grip with mitts and gloves, and connects via a steel cable to the ballon compartment. A pull on the trigger pops the closure open, this in turn connects to an electronic trigger which starts up the centrifugal blower which inflates the ballon in less than five seconds.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716201286/in/album-72157662401963745/" title="Release Trigger Locked"><img src="https://farm1.staticflickr.com/675/23716201286_fc4b267027_b.jpg" width="1024" height="683" alt="Release Trigger Locked" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The next design hurdle was the Brushless DC Motor, which are difficult to make reliable at cold weather. After tracking down many designers across the globe Gord found the right guy just five minutes from the Arc’teryx Design HQ, and he helped him design a reliable engine which also performs at -30°C. 90% of the other technology in the pack is also custom-made, from flexible wires to the circuit board and release notch, Arc’teryx spent nearly six years to make this backpack the best in its category. To learn more, please watch this exclusive video where Gordon Rose and Peter Hill talk about the Voltair Avalanche Airbag:</p>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/xjq-NAQUK-k" frameborder="0" allowfullscreen=""></iframe>
+
+<p>(<em>Interview video coming soon!</em>)</p>
+
+<h2 id="the-pack">The Pack</h2>
+
+<p>The goal of Peter Hill was to make a classic, timeless Arc’teryx backpack which still looks great in five years. Constructed from the AC² material with taped seams and glued-in Sidewinder zippers, the pack is waterproof and keeps your gear dry. As it rained &amp; snowed all the time as we were up in the mountains it was a good test for the pack, and it performed great: Everything stayed dry inside.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23633782422/in/album-72157662401963745/" title="Arc’teryx Voltair Avalanche Airbag - Side"><img src="https://farm6.staticflickr.com/5797/23633782422_324efe2db1_b.jpg" width="1024" height="683" alt="Arc’teryx Voltair Avalanche Airbag - Side" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The Voltair has three compartments: A ballon compartment, an avalanche Kit compartment and a main compartment. Available in two sizes these pack are real 20 l and 30 l packs, unlike some packs of competitors which barely let you pack a puffy jacket and thermos bottle in their claimed volumes. I carried in my 30 l test pack two extra pairs of gloves, my <a href="http://bit.ly/1P2NxEx">Arc’teryx Cerium SV Jacket</a>, my <a href="http://www.bergfreunde.de/norroena-lyngen-alpha100-vest-kunstfaserweste/?pid=10239">Norrona Lyngen Alpha100 Vest</a>, a water bottle, sandwiches and snacks, my <a href="http://www.bergfreunde.de/contour-hybrid-mix-130-skifelle/?pid=10239">countour Hybrid skins</a>, a tripod, two cameras and I had plenty of room to spare. If I compare that to my <a href="https://www.bergzeit.co.uk/black-diamond-dawn-patrol-25-ski-rucksack-deep-torch-black-m-l/?pid=81">Black Diamond Dawn Patrol 25 pack</a> that’s a massive difference, where it gets pretty hard to get so much gear in.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23716247456/in/album-72157662401963745/" title="Avalanche Kit Pocket"><img src="https://farm1.staticflickr.com/738/23716247456_a1a40505f3_b.jpg" width="1024" height="683" alt="Avalanche Kit Pocket" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The carrying system of the Voltair is very comfortable and is fully adjustable. The hipbelt has some freedom of movement so you can turn those hips for your turns, and if you want to save weight you can remove the stays. The hipbelt also can be turned around for transport, and the chest strap can be removed if you feel you don’t need it. The leg loop strap is very easy to use which is very important: It’s the piece of gear that ensures you stay connected to the backpack and ballon if you get into an avalanche. It is super easy to clip in and out - also with mitts on - and the design is inspired by ice clippers as you might know them from ice climbing.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23742317785/in/album-72157662401963745/" title="Leg loop clip-in point"><img src="https://farm6.staticflickr.com/5829/23742317785_aa47814a51_b.jpg" width="1024" height="683" alt="Leg loop clip-in point" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The pack isn’t ultralight, even if Arc’teryx tried to use the lightest &amp; most durable materials and technology in the pack. The 20 l pack is 3.235 g and the 30 l pack is 3.465 g - the tech inside is a big part of that, with the battery itself already being a wee bit over 800 g. Arc’teryx hopes that this weight will be decreased in the not-too-distant future, especially since major players are heavily infesting into energy storage solutions.</p>
+
+<h2 id="in-use">In Use</h2>
+
+<p>I was able to use the pack for three days out at <a href="http://www.callaghancountry.com">Callaghan Country</a>, which gave me a good understanding how this pack carries and deploys. The first thing you realize is the comfortable carrying system, which carries also (for an ultralight backpacker) very well, even with a pretty full pack. Also the leg loop is wonderfully intuitive and unobtrusive: It clips in and out super easy even with thick gloves on, and you don’t realize it is there while skinning and skiing.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23633780212/in/album-72157662401963745/" title="Arc’teryx Voltair Avalanche Airbag at Callaghan Country"><img src="https://farm6.staticflickr.com/5702/23633780212_2243ce5e36_b.jpg" width="1024" height="683" alt="Arc’teryx Voltair Avalanche Airbag at Callaghan Country" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>As I haven’t used Avalanche Airbags before I have nothing to compare the Voltair to, but chatting with Lou of <a href="http://wildsnow.com">Wildsnow</a> and my other colleagues at the event it became evident that the Voltair is a well-designed Avalanche backpack which compares very good with other packs in the market. The advantages of battery-powered packs in comparison to compressed air backpacks are evident: You can practice and test the release of the ballon at home, it is much easier to travel with as you don’t need to find a place to fill up the air cartridge before you hit the slopes at your destination, and being able to release the ballon in the Voltair up to eight times means using this pack on long outings adds a lot of safety.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23659988171/in/album-72157662401963745/" title="Packing the Ballon 1"><img src="https://farm6.staticflickr.com/5703/23659988171_0fef0d05d5_b.jpg" width="1024" height="683" alt="Packing the Ballon 1" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Packing the ballon is a thing of two to five minutes, depending on your level of practice. The ballon deflates via a valve which you slide in. Happily the ballon does not need to be folded in a special way - just stuff it back into the ballon compartment, close the zipper, pop the hatch back in and you’re ready. I discussed at length with Peter and Gordon about the use of zippers for the ballon compartment as it’s most certainly the thing I like least, but as every other avalanche pack on the market uses zippers (they work!) and in a pinch you can use the ballon even if the zipper is broken, I am convinced that it is OK.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23115555973/in/album-72157662401963745/" title="Ballon compartment"><img src="https://farm1.staticflickr.com/579/23115555973_03b5921fd9_b.jpg" width="1024" height="683" alt="Ballon compartment" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Putting the system on and releasing the ballon is also easy. You put the battery on and get a re-assuring short whirr which means the system is on and ready to go. The green LED lamp at the outside will blink green indicating that all is good to go, then you just turn the handle to the green dot side and you’re ready to skin up and ski down. In the case of an avalanche you pull the trigger and <em>POP!</em> the ballon deploys, helping you to hopefully stay on top thanks to the inverse segregation principle, which sorts larger particles to the top of the avalanche. The handle of the Voltair is also always accessible and can not be stowed away, this again minimizes the risk of user error and is different from other avalanche packs.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23742279705/in/album-72157662401963745/" title="POW Turns"><img src="https://farm6.staticflickr.com/5814/23742279705_0876730dd4_b.jpg" width="1024" height="683" alt="POW Turns" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>You can carry skis/ snowboard and an ice axe at the front of the pack, just make sure to put the ice axe with the tip down (ballons and steel tips don’t work well together). The side compression straps help to minimize volume if you are out with a small load, and the front hipbelt is comfortable and carries well. All buckles are easy to open in cold weather with gloves, and the zippers have tabs which makes them easy to operate with gloves on.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23374347639/in/album-72157662401963745/" title="Crossing streams"><img src="https://farm1.staticflickr.com/654/23374347639_0df435ac5f_b.jpg" width="1024" height="683" alt="Crossing streams" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Finally, the battery and control unit of the circuit collect data of the pack in use, with the aim to further the knowledge base of avalanche airbags in use. This data can be downloaded - should the user agree - when the pack is sent in for inspection. Arc’teryx works close together with Pascal Haegeli of the Simon Fraser University in Vancouver, one of the premier avalanche researchers on the planet.</p>
+
+<h2 id="the-bottomline">The Bottomline</h2>
+
+<p>The Voltair is a beautifully designed avalanche pack which is spacious and easy to use. The tech inside is all custom-made and designed to the highest standards, so that it can operate at -30°C and for many years in the harsh conditions of the backcountry. It is easy to learn how to deploy the ballon, pack it back in and then carry all your gear on your backcountry ski-tours. Fully waterproof it keeps your kit inside dry, and the possibilities for human error minimized it hopefully helps you to survive an avalanche if you should ever get into one. The packs will retail for 1650€ for the 30 l pack and 1550€ for the 20 l and will be available in autumn 2016. <em>Of course using the pack for just three days is not enough for a long-term review, but I am confident that with a sample pack showing up hopefully soon I can put it through its paces during the many ski-touring trips I have planned for this winter and then can get a more detailed review up by spring.</em></p>
+
+<p>A lot more <a href="https://www.flickr.com/photos/hendrikmorkel/albums/72157662401963745">high resolution photos are in the Flickr Album</a>, and if you enjoyed this article <strong><a href="http://bit.ly/1HGCWMS">buy me a coffee</a></strong>!</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23115487673/in/album-72157662401963745/" title="Skinning up"><img src="https://farm1.staticflickr.com/758/23115487673_22ec0ed64b_b.jpg" width="1024" height="683" alt="Skinning up" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Arc'teryx Procline Carbon Lite Ski Boot]]></title>
+    <link href="http://hikinginfinland.com/hikinginfinland/2015/12/arcteryx-procline-carbon-lite-ski-boot.html"/>
+    <updated>2015-12-11T23:55:00+02:00</updated>
+    <id>http://hikinginfinland.com/hikinginfinland/2015/12/arcteryx-procline-carbon-lite-ski-boot</id>
+    <content type="html"><![CDATA[<p>1.190 g light, freedom of movement and great for alpinists and ski-tourers alike: The Arc’teryx Procline Carbon Lite Ski Boot and its siblings, the Procline Men’s Lite &amp; Procline Women’s Lite.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23233644179/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm6.staticflickr.com/5694/23233644179_77ae9e38a8_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<!-- more -->
+
+<p>I was lucky enough to witness on Monday afternoon the unveiling of the <a href="http://arcteryx.com">Arc’teryx</a> ski boot line. It was a much rumoured development and what we saw today was even better than what the rumors suggested. As I have a severe Jetleg I will just make this a short and sweet post with some key points, and after (possibly maybe) having used the boot a bit more over the following few days up in the mountains I will update this post, so please stay tuned. It is smart to follow along on <a href="http://facebook.com/hikinginfinland">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://instagram.com/hendrikm/">Instagram</a> as with some luck there will be live updates from the mountains about this boot and the new Voltair Avalanche Airbag there, too.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23519476391/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm1.staticflickr.com/709/23519476391_c5e65555f2_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Coming in Fall 2016 are the <strong>six alpine touring ski boots from Arc’teryx</strong>, and together with eight colleagues from Europe and North America I am heading out to test these new boots and the Voltair Avalanche Airbag over the next three days so I will be able to give more insights on those on Friday. Here’s what I can tell you from trying on the boot and checking it out today at the exclusive product launch. The Six models are called</p>
+
+<ul>
+  <li><strong>Procline Carbon Lite</strong>, the top of the line Unisex model which tips the scales at 1.190 g and will cost 730€ retail.</li>
+  <li>The <strong>Procline Carbon Support</strong> will be 1.260 g in MP Size 27.5 abd costs 700€</li>
+  <li>The <strong>Procline Men’s Lite</strong> will be 580€, 1.190 g in MP Size 27.5 while the <strong>Procline Men’s Support</strong> is 1.260 g and 550€</li>
+  <li>The <strong>Procline Women’s Lite</strong> tips the scales at 1.060 g and the <strong>Procline Women’s Support</strong> is 1.120 g - prices are the same as the Men’s models but both have a women’s last</li>
+</ul>
+
+<p>The difference between the Lite and Support models are the liners and cuffs. The Lite liners are about 90 g lighter as the support liners and fully thermo-mouldable. Both liners are designed in-house, but are different: The <em>Lite Liner</em> is made for uphill agility and great if you have a talented ski boot fitter at hand, while the <em>Support Liner</em> is slightly better for ski performance and if you don’t have access to a ski boot fitter. The Support Liner also has, as the name suggests, more tongue and collar support. The Women’s model will have a women’s last, and all liners have a removable strap closure system.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23306141770/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm6.staticflickr.com/5788/23306141770_d7edb81816_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The special thing about the boot - besides the ridiculously light weight of 1.190 g for the Procline Carbon Lite - is the agility it gives you. The 360° Rotating Cuff makes the boot feel more like the <a href="https://hikinginfinland.com/2015/01/scarpa-rebel-ultra-gtx.html">Scarpa Rebel Ultra GTX</a>. Unlike normal cuffs this cuff - available in two different configurations, one from Carbon fibre with over-injected Grilamid and in the Men’s and Women’s models the cuff is made from carbonfibre charged Grilamid  - is cut in half. Yes, you read that right: The cuff is cut in half in the back of your calf. Together with the rest of the cuff his gives you a <strong>Lateral rotation of 23° inwards and 13° outwards</strong>, which should make it much more better for skinning up difficult, steep snow or make it more agile for climbing.</p>
+
+<p>Speaking of alpine climbing, one of the re-occurring points the designer <strong>Federico Sbrissa</strong> (keep that name in mind, I have a feeling we can expect much more great footwear innovations to come from him!) made is that these boots were <em>designed for the alpinists and also great for every ski-tourer</em>. It’s a point worth thinking about, because the things alpinist (climbers) want in boots often will be much appreciated by skiers. I mean, more agility in your boot that allows you to skin longer and keep the crampons in your pack? Great! More edge control on steep snow traverses? Yes please! More agility when using crampons? Heck yeah!</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23234109229/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm1.staticflickr.com/583/23234109229_7920fba1dc_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Nice about these carbon fibre cuffs is also that the pivot points - the places where metal rivets go through them - are made from plastic. And they connect to plastic. Which makes them a lot more durable than 100% carbon cuffs, which tend to wear out at the points where they touch metal. As here plastic touches plastic, they should last much longer, which is pretty cool. Once you decide to ski pull the buckle down and can hit the pow. Locking pins on the divided cuff lock into the rear spine and you have a nice, stiff boot to go down.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22975559223/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot -Cuff inside"><img src="https://farm1.staticflickr.com/659/22975559223_96c5b221af_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Procline Carbon Boot -Cuff inside" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23520236251/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot - Cuff Pivot Point"><img src="https://farm1.staticflickr.com/573/23520236251_2211b8dfc9_b.jpg" width="1024" height="768" alt="Arc&#x27;teryx Procline Carbon Boot - Cuff Pivot Point" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>The other great innovation - well, there’s many more, but I have that jetleg and tomorrow’s another long day - is the full coverage gaiter. Made from Cordura with a PVC coating it is waterproof, a thing that both climbers and skiers will appreciate: If you climb ice in boots you don’t want ice or water coming in, and on Champagne Powder days you neither want snow in your boot, be it skinning up or shredding down. This gaiter, which is integrated with the boot shell, gives you a lot of protection and toasty feet in any conditions, be it skiing down or climbing up.</p>
+
+<p>The Hybrid Closure System is a mix of buckle and lacing - think a Boa® closure that actually stays shut. The buckle is integrated with the cable, has 15 different positions for adjustment for an individual fit, and as the cable is connected to the buckle - once the buckle is locked in, it stays put! The cable is made from steel and the buckle from aluminium, and it is pretty amazing how well you can adjust the fit on these.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23519518161/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot - Hybrid Closure System"><img src="https://farm1.staticflickr.com/707/23519518161_b99c9dfedf_b.jpg" width="1024" height="683" alt="Arc&#x27;teryx Procline Carbon Boot - Hybrid Closure System" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>There’s a lot more - a Power Strap without Velcro, buckles that keep in place when opened, a rockered tow, Dynafit certified toe and heel inserts, a crampon optimized toe shape with rubber cover and a Vibram sole - but I’ll tell you more about these on Friday. Until then check the <a href="https://www.flickr.com/photos/hendrikmorkel/albums/72157661451499809">photos in high-res on Flickr</a>, follow along on <a href="http://facebook.com/hikinginfinland">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://instagram.com/hendrikm/">Instagram</a> and read <a href="http://backcountrymagazine.com">what</a> my <a href="https://www.wildsnow.com">colleagues</a> <a href="http://www.fall-line.co.uk">have</a> to <a href="http://www.friflyt.no/Ski/ArcteryxProcline">say</a>.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22973797184/in/dateposted/" title="Arc&#x27;teryx Procline Carbon Boot"><img src="https://farm6.staticflickr.com/5717/22973797184_35af5922aa_b.jpg" width="683" height="1024" alt="Arc&#x27;teryx Procline Carbon Boot" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Winter Family Adventures in Pyhä-Luosto]]></title>
+    <link href="http://hikinginfinland.com/hikinginfinland/2015/04/winter-family-adventures-in-pyha-luosto.html"/>
+    <updated>2015-04-08T23:41:00+03:00</updated>
+    <id>http://hikinginfinland.com/hikinginfinland/2015/04/winter-family-adventures-in-pyha-luosto</id>
+    <content type="html"><![CDATA[<p>The common human relationship with winter seems to go like this: As a child you love winter. In your twenties you could life without it. And from your thirties onwards you fall in love with winter &amp; snow again. In our family we’re all winter lovers, and as winter didn’t really visit us in Vaasa we decided to find it up north at <a href="http://ski.pyha.fi/eng/">Pyhä Tunturi</a>.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17075087012" title="That one next, dad! by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7599/17075087012_e945efd6da_b.jpg" width="1024" height="576" alt="That one next, dad!" /></a></p>
+
+<!-- more -->
+
+<h2 id="prologue">Prologue</h2>
+
+<p>Climate change is a real bummer for winter lovers in Southern Finland. While I did get to ski and fatbike in the snow a bit back home, winter in Vaasa was a mix of snow + cold and then rain + warm temperatures which resulted in a less than nice winter. With a week of winter vacation that we could each take of, M and me decided to search winter in Lapland. After some discussions of what we wanted we quickly settled on the <a href="http://ski.pyha.fi/eng/">Pyhä Ski Resort</a> as the best destination for us this year as it had plenty of fun winter activities to offer for all three of us, from skiing and hiking over sledding to ice climbing and fatbiking, with great <a href="http://ski.pyha.fi/accommodation/">accommodation</a> options, too.</p>
+
+<p>A car was rented, <a href="www.airbnb.com/c/hmorkel?s=8">AirBnB accommodation</a> in Oulu was organized and the luggage was packed. It was a nice Sunday morning as we started the drive north, and it was around Oulu - 300 km from Vaasa - that we saw the first signs of Winter again. The next day we continued via a stop in Rovaniemi onwards to Pyhä, and already from a distance we could see the iconic fjells of the ski resort and <a href="http://www.outdoors.fi/pyha-luostonp">National Park</a>, with lots of snow around us and a beautiful bluebird sky promising a great week of winter fun! We checked in to the <a href="http://www.pyha.fi/summer/accommodation/?file=target_exec&amp;id=1128&amp;submenu=3657">Ski-Inn PyhäSuites Apartment</a>, heated up the Sauna and enjoyed seeing the stars in the crisp, black sky.</p>
+
+<h2 id="winter-fun-for-kids">Winter fun for Kids</h2>
+
+<p>We found Pyhä a great location for our three year old. He loved the snow and we were daily at the sled hill, which was a five minutes walk from the <a href="http://www.luontoon.fi/pyha-luostonluontokeskus">Nature Centre Naava</a> (which is in the centre of the village and hence an easy reference point). The two sled hills were good fun and E didn’t get tired of sledding for many hours each day, with little rest breaks at the conveniently located open hut at the foot of the hill. Being allowed to throw another log of wood on the fire was equally nice as making snow angles and sledding together <em>superfast</em> with dad.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16889011560" title="Pyhä Sled Hill by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7713/16889011560_3351fc57fa_b.jpg" width="1024" height="576" alt="Pyhä Sled Hill" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17076568685" title="Sled Hill break hut by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8752/17076568685_cb2b65aa11_b.jpg" width="1024" height="576" alt="Sled Hill break hut" /></a></p>
+
+<p>There’s a ski school for kids in Pyhä too, though we decided to wait for another year to put him on downhill skis. There were lots of kids skiing, though, and the Family slopes were full with parents and kids of all ages. Close to our apartment was also a reindeer enclosure and visiting Rudolph and his friends was every time again fascinating. E also enjoyed looking how other people skied down the hills so fast, and going up with the Polar Express to the top of the fjell made him smile from ear to ear.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17075825821" title="Top of the fjell by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8798/17075825821_e54ca475a2_b.jpg" width="1024" height="576" alt="Top of the fjell" /></a></p>
+
+<h2 id="skiing">Skiing</h2>
+
+<p>M and me have the same shoe size, which was convenient as we loaned cross country skis and boots. M enjoyed skiing the tracks while I went a bit off-piste and explored the nearby National Park and swamp on skis. There’s surely a hundred kilometre or more of groomed cross-country skiing tracks at Pyhä and M liked the little huts and Laavus along the tracks, as they were ideal to have a short break and then ski back. The tracks vary in difficulty, from a super easy loipe that goes around a mire with zero elevations to more demanding loipes. You even can ski around the whole Pyhä-Luosto National Park on groomed tracks, which is - depending on the route you choose - between 70 or more kilometres. For early morning and late night skiers there’s also a pretty long illuminated track which is lighted up from 6 in the morning till 23 at night.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17075080162" title="Skiing by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8687/17075080162_2149394d66_b.jpg" width="1024" height="576" alt="Skiing" /></a></p>
+
+<p>But of course cross-country skiing is just one sort of skiing you can do in Pyhä! It’s very well known in Finland to be <em>the</em> Backcountry destination, as you can take the lift up and then pretty much ski down where you please. Sadly my <a href="http://hikinginfinland.com/2015/03/ispo-2015-news-3.html">DPS Tour 1 skis</a> didn’t arrive in time otherwise I would have been out on the slopes and made some pretty turns after skinning up the hills. There are lots of great ski-touring options at Pyhä, so if that’s your kind of skiing make sure to take your gear along! Also for downhill and Freeskiers Pyhä is a great destination, with 9 lifts, 14 prepared slopes - the longest slope being 1800 m - and the same ski pass being valid at Ruka as well Pyhä is a great destination to go snowboarding and skiing. Add in that the lifts are working super efficient and queues were non-existent and you have the ingredients for lots of skiing and fun.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16890340699" title="Top of the fjell by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8716/16890340699_d85b8eda66_b.jpg" width="1024" height="576" alt="Top of the fjell" /></a></p>
+
+<h2 id="ice-climbing">Ice climbing</h2>
+
+<p>One of the reasons why Pyhä won for us as a destination is that you can go <a href="http://www.blissadventure.fi/en/ice-climbing/customized-ice-climbing/">ice climbing at Tajukangas</a> which is a short stroll from the slopes and the Pyhätunturi Hotel. My friends from <a href="http://www.blissadventure.fi/en/">Bliss Adventure</a> run the ice climbing crag there, and I was very happy that my friend <a href="http://aleksimehtonen.fi/">Aleksi</a> and his colleague Mikko were there with me and were the belay masters while I was whacking some ice. And whacking ice I did!</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16454119254" title="My first ice lead at Tajukangas by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7665/16454119254_4f6f3c878e_b.jpg" width="1024" height="576" alt="My first ice lead at Tajukangas" /></a></p>
+
+<p>After a couple of warm-ups and checking out the routes I did my first ice lead ever, and while I was a bit nervous while tying in to my <a href="http://www.bergzeit.fi/en/mammut-genesis-8-5-half-rope-red/?pid=81">Mammut 8.5 Genesis Ropes</a> and racking up the new <a href="http://www.bergfreunde.co.uk/petzl-laser-speed-ice-screw/">Petzl Laser Speed ice screws</a> as soon as I was on the ice and put my mind on the task ahead the fear was gone, tranquility and enjoyment flowing through me. As far as ice leads go this wasn’t the most difficult route ever, though I found the company and encouragement from Aleksi &amp; Mikko superb and they helped me to trust myself and lead on ice. Now I’m hungry for more and hope that next winter will be much better than this one, so that there will be much more ice climbing and leading!</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17075086492" title="My first ice lead at Tajukangas by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8723/17075086492_4b88107d6d_b.jpg" width="576" height="1024" alt="My first ice lead at Tajukangas" /></a></p>
+
+<h2 id="hungry">Hungry?</h2>
+
+<p><a href="http://pyhawurst.fi/">Pyhä Wurst</a> is a cozy little Restaurant/ Café at the bottom of the Northern Slope. They serve, as the name suggest, a variety of different sausages, and all three of us really found our food extremely tasty. Our son devoured a Hotdog - his first one! - and would have liked a second one, while M and me enjoyed a Bratwurst Hotdog and a Riistakäristys. They place was very popular with skiers &amp; snowboarders, walkers, cross-country skiers and families alike, so check them out when you’re in Pyhä and would like to taste some good Wurst!</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17050601976" title="PyhäWurst by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8732/17050601976_5f89cb12f4_b.jpg" width="1024" height="576" alt="PyhäWurst" /></a></p>
+
+<p><a href="http://www.cafeloimu.fi/en/">Café Loimu</a> was another Café which we enjoyed visiting almost daily as they served some super-tasty pancakes and good coffee. They’re located in the same building as the Nature Centre Naava so kids can even go and explore the museum on their own while the parents can enjoy a moment in the Café. Café Loimu is right in the middle of the village and also has an Á la carte Menu if you want to eat a bit more than pancakes or a sandwich.</p>
+
+<p>The <a href="http://ski.pyha.fi/restaurants/?file=target_exec&amp;id=1019&amp;submenu=138">Hotel Pyhätunturi Restaurant</a> has a gorgeous Panorama view over the surroundings and is an ideal place to conclude a nice day outdoors, especially if the Northern Lights decide to show up and play a show over the forests and mires. M ate the best Sautéed reindeer (<em>poronkäristys</em> in Finnish) in her life at the Restaurant and found it so tasty that she still talks about how good it was. I enjoyed <em>The Poro</em> which was equally delicious, while E had problems finishing his kids meal of spaghetti and meatballs. The atmosphere and service at the Hotel Pyhätunturi Restaurant were excellent and if you stay in Pyhä we strongly recommend that you visit the restaurant.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16457137153" title="The Poro by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8686/16457137153_4fe83a661d_b.jpg" width="1024" height="659" alt="The Poro" /></a></p>
+
+<p><a href="http://www.huttu-uula.fi/">Restaurant Huttu-Uula</a> has won an Chaîne des Rôtisseurs award and is located at the foot of the Polar slope. Every Thursday it serves a <a href="http://www.huttu-uula.fi/files/uula_puffee.pdf">Lappish Food Buffet</a> with lots of delicious dishes from Lapland. The friendly atmosphere together with the good buffet food make this a recommended visit on a Thursday evening, though you should reserve well in advance as the Buffet is very popular and was fully booked out when we were there.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16889741440" title="Leipäjuusto by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7681/16889741440_7557737323_b.jpg" width="1024" height="768" alt="Leipäjuusto" /></a></p>
+
+<h2 id="fatbiking">Fatbiking</h2>
+
+<p>Since I got my <a href="http://salsacycles.com/bikes/mukluk">Fatbike</a> cycling has been a lot of fun in winter. Riding over the frozen Baltic Sea, shredding over the single track in the forest and doing laps on the groomed trails are just a lot of fun, so of course I took the opportunity to go on a <a href="http://www.blissadventure.fi/en/fatbikes/">Fatbike Adventure at Pyhä</a>. I was very lucky that my friend Artturi was my guide for the morning, and after familiarizing myself with bike and hearing what Artturi had planned for us we hit the trails.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16888790748" title="Fatbiking, skiing or hiking? by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7676/16888790748_0235d89209_b.jpg" width="1024" height="576" alt="Fatbiking, skiing or hiking?" /></a></p>
+
+<p>After some beautiful, flow-y single track trails we arrived at a large mire which was a lot of fun to ride across. We had a short break at a bird watching tower which allowed for wide views over the National Park, before continuing across the mire - fat tires rock in that terrain! Slowly narrow tracks brought us back to our starting point, and after a nice climb back up to the Hotel this little Fatbike adventure was done. You also can rent a Fatbike for half a day or longer from Bliss in case you want to explore the National Park on your own. Hats off to Bliss Adventure for offering this service, I think they’re spot on with it and I saw daily very happy fatbike cyclists riding on the trails and snow.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17076575735" title="Artturi Kröger fatbiking in Pyhä-Luosto National Park by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8797/17076575735_d5ec086d2d_b.jpg" width="1024" height="576" alt="Artturi Kröger fatbiking in Pyhä-Luosto National Park" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/16456411083" title="Selfietime! by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7610/16456411083_2d9c29dd7c_b.jpg" width="1024" height="683" alt="Selfietime!" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17076574115" title="Artturi Kröger fatbiking in Pyhä-Luosto National Park by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7714/17076574115_7c29a3b793_b.jpg" width="1024" height="576" alt="Artturi Kröger fatbiking in Pyhä-Luosto National Park" /></a></p>
+
+<h2 id="snowshoe-hiking">(Snowshoe) Hiking</h2>
+
+<p>There is a dedicated <a href="http://hikinginfinland.com/2010/01/video-msr-lightning-ascent-review.html">snowshoe</a> hiking trail in Pyhä, though it was so hard packed that one didn’t need snowshoes to walk on it. So we had a nice little family hike to the Isokuru gorge and back, which includes a steep descent and climb from the nice Isokuru Kota. The hike seems to take the route of the summer nature trail as we passed quite a few signs which gave information about the forest and land, and is ideal if you’d like to be outdoors for a couple of hours.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/17050611986" title="Danger! by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8813/17050611986_396e0e5472_b.jpg" width="1024" height="576" alt="Danger!" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/16456419973" title="Family Hike by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8687/16456419973_19757d8746_b.jpg" width="1024" height="576" alt="Family Hike" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17075086052" title="Fire by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7633/17075086052_af66532256_b.jpg" width="1024" height="576" alt="Fire" /></a></p>
+
+<h2 id="nature--silence">Nature &amp; Silence</h2>
+
+<p>Despite all the activities you can do in Pyhä, there are two things in Pyhä-Luosto everywhere, and they’re for free: Nature and Silence. Even with a Baltic Ski Cup going on while we were in the village, we just needed to walk for five minutes towards the <a href="http://www.outdoors.fi/en/pyha-luostonp">National Park</a> and there was a calmness that was just once in a while interrupted by birdsong or the wind blowing through the trees. Pyhä-Luosto National Park is home to the southern most big fjells in Finland, beyond them towards the south starts the flat land. Though this does make them popular I had at no time the feeling that there were too much people around me, for example the lines at the lifts were pretty much non-existent despite there being a bunch of people, and also in the Cafés and Restaurants there were never masses of people. As someone who values silence a lot I found Pyhä a great place, with easy access to nature and the possibility to <em>“escape”</em> the main slopes and head into the National Park, where even on blue bird days I didn’t meet more than a handful of people.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16869172217" title="Silver by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7613/16869172217_7c288c4b9e_b.jpg" width="1024" height="576" alt="Silver" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17050598466" title="Snow &amp; Birch by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8690/17050598466_e512ff6074_b.jpg" width="1024" height="576" alt="Snow &amp; Birch" /></a></p>
+
+<h2 id="practicalities">Practicalities</h2>
+
+<p><strong>Where to stay?</strong></p>
+
+<p>We stayed at a <a href="http://www.ski-inn.fi/majoitus.asp?prodtype=30&amp;lang=eng&amp;tunturi=&amp;day=&amp;endDay=">Ski-Inn PyhäSuites Apartment</a> which was ideally located right next to the slopes. The apartment was super family-friendly and had two bedrooms, a small kitchen, living room, balcony, a own Sauna and a drying cabinet to dry wet garments and gear (super handy with kids!). There are plenty more options in town, from the nice <a href="http://www.ski-inn.fi/majoitus.asp?prodtype=41&amp;lang=eng&amp;tunturi=&amp;changeMonth=">Ski-Inn Hotel Pyhätunturi</a> to many, many cozy <a href="http://www.pyha.fi/summer/accommodation/?file=cabins&amp;submenu=3660">cabins</a> and even a <a href="http://www.pyha.fi/summer/accommodation/?file=target_exec&amp;id=1106">caravan site</a> if you’re coming with your own accommodation. You’ll surely find something to your liking, keep an eye out for deals, though, as at e.g. the Ski-Inn PyhäSuites Apartments ski passes can be included in the price saving you a bunch of money!</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16869175557" title="PyhäSuites by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7703/16869175557_09002a90bf_b.jpg" width="1024" height="576" alt="PyhäSuites" /></a></p>
+
+<p><strong>How to get there?</strong></p>
+
+<p>As we don’t own a car we rented one for a week and drove up north. Vaasa - Pyhä is around 660 km and with a toddler along we decided to split the journey in two and spend a night in Oulu. If you come from abroad you might want to fly directly to Rovaniemi and take the <a href="http://www.pyha.fi/summer/info/?file=content_exec&amp;id=2292&amp;submenu=3890">SkiBus</a> to Pyhä, or take the (overnight) train from Helsinki and then jump on the SkiBus. In the village you can walk pretty much everywhere within 15 minutes, and there’s a variety of shops to suit your needs.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/sets/72157651506091295/">More Photos on Flickr</a>.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16454124174" title="No sledding by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8787/16454124174_baa0f5cd6b_b.jpg" width="1024" height="576" alt="No sledding" /></a>
+<a href="https://www.flickr.com/photos/hendrikmorkel/17075081902" title="Aurora Borealis by Hendrik Morkel, on Flickr"><img src="https://farm8.staticflickr.com/7644/17075081902_4025b6fd68_b.jpg" width="1024" height="576" alt="Aurora Borealis" /></a></p>
+
+<p><em>Thanks to the Pyhä Ski Resort and their Partners which invited us up north.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Canyons and Ice - The Wilderness Travels of Dick Griffith]]></title>
+    <link href="http://hikinginfinland.com/hikinginfinland/2014/08/canyons-and-ice-the-wilderness-travels-of-dick-griffith.html"/>
+    <updated>2014-08-01T14:53:00+03:00</updated>
+    <id>http://hikinginfinland.com/hikinginfinland/2014/08/canyons-and-ice-the-wilderness-travels-of-dick-griffith</id>
+    <content type="html"><![CDATA[<p>I have to agree with Craig Medred: Many of today’s cardboard-cutout adventurers only dream of adventure. Dick Griffith, on the other hand, has traversed unexplored canyons in a packraft and has skied solo across thousands of kilometres of the Arctic. All of it without sponsors. All vividly documented in his journals. And now for you and me to read about in this fine book.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/14614504160" title="Canyons and Ice by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3847/14614504160_d1e910e7b4_b.jpg" width="1024" height="768" alt="Canyons and Ice" /></a></p>
+
+<!-- more -->
+
+<p><strong>Canyons and Ice: The Wilderness Travels of Dick Griffith</strong> is written by Kaylene Johnson and is based on the journals Dick and his wife Isabelle have written on their trips, while several of their contemporaries &amp; their children also have contributed to the book. It is very captivating, written in the third person and contains 17 of his adventures. If you’re by now wondering who that Dick Griffith is: The pioneer of packrafting who has done the first descend of the Barranca del Cobre canyon in Mexico (without topographic maps!), a 17 times participant of the Alaska Wilderness Classic and a man who has walked &amp; skied over 6000 miles (that’s over 9.650 km) across the Canadian and Alaskan Arctic. All of it paid out of his own pocket and not looking for recognition. Inspiring stuff.</p>
+
+<p>The first story in the book takes place in 1946 and we accompany a 19 year old Dick on a walk in Colorado along the White River, which started out on a home-made wooden raft that sunk on the first day. But already two years later we stand with Dick at the shore of the San Juan River and accompany him on a rafting trip down it. The following five chapters contain stories from various river exploits and we learn how packrafts got used for the first time on large rivers &amp; in tight canyons. We meet Dick’s wife Isabelle, encounter Tarahumara Indians and make a few first descents down deep canyons over hard wild water.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/14614508550" title="Canyons and Ice by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3869/14614508550_c48854e64e_b.jpg" width="1024" height="768" alt="Canyons and Ice" /></a></p>
+
+<p>After so much water the stories turn north and we accompany Dick on his first Arctic skiing expedition. On which he almost dies - lets say frostbite on your buttocks and legs is no fun. The photos documenting this mishap I will remember for a long time, as well as the lesson that you always should have a windproof pants on when venturing in the cold Arctic and there’s a stiff breeze blowing. After a few operations we accompany Dick on several more Arctic expeditions, where we encounter ice bears, rabid foxes, hospitable locals who can’t believe to encounter a white-haired man skiing alone through the frozen north. The photos are pre-digital and fit the stories very well and depict the people Dick met and travelled with, as well as the landscapes he travelled through.</p>
+
+<p>The untamed wilderness is what drove Dick to explore. Being with his own thoughts. Recharging the batteries. Much of the same reasons many of us go out. If you’re in need for a book to keep you entertained - and you will be, it’s a gripping book that’s hard to put down - before your next trip, you should read this book. You can get it at <a href="http://amzn.to/1zCEVMS">Amazon.com</a>, <a href="http://amzn.to/1zCF1US">Amazon.co.uk</a> or <a href="http://amzn.to/1zCFgix">Amazon.de</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Untold Trip Reports]]></title>
+    <link href="http://hikinginfinland.com/hikinginfinland/2013/10/untold-trip-reports.html"/>
+    <updated>2013-10-30T11:29:00+02:00</updated>
+    <id>http://hikinginfinland.com/hikinginfinland/2013/10/untold-trip-reports</id>
+    <content type="html"><![CDATA[<p><em>Unsung heroes, untold stories. So much time outdoors, so little time to write about them.</em> <strong>These are the Untold Trip Reports.</strong></p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/9537611324/" title="Dusk by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7312/9537611324_1787dd85ec_b.jpg" width="1024" height="680" alt="Dusk" /></a></p>
+
+<!-- more -->
+
+<h2 id="packrafting-in-ruunaa">Packrafting in Ruunaa</h2>
+
+<p>I was just back from the <a href="http://hikinginfinland.com/blog/categories/outdoor-fair-2013/">OutDoor Fair</a> when I saddled two packs with packrafts on my shoulders to travel to Ruunaa, where I was teaching a packrafting course. It was a very wet weekend, though we laughed, paddled and hiked a lot. One more packrafting aficionado joined the tribe, eagerly waiting to acquire his own, taking it on future adventures on rivers and lakes.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/9559715313/" title="Wet by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3799/9559715313_228cbc97ab_b.jpg" width="1024" height="680" alt="Wet" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9562508942/" title="Time to pick some berries by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7417/9562508942_5af0666233_b.jpg" width="1024" height="680" alt="Time to pick some berries" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9559715473/" title="Water by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5532/9559715473_6d6f4ee7e7_b.jpg" width="1024" height="680" alt="Water" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9559715389/" title="Fire by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7314/9559715389_6c714de875_b.jpg" width="1024" height="680" alt="Fire" /></a></p>
+
+<h2 id="backpacking-in-seitseminen">Backpacking in Seitseminen</h2>
+
+<p>Another course with three superb clients, we were backpacking for three days in the beautiful Seitseminen National Park and learned about ultralight skills and gear. Gathered mushrooms, swam in the lake, sat around the fire and slept warm in hammocks and quilts, while the sun shone down on our trail.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/9519459009/" title="Ultralight camping by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3793/9519459009_f7441f5148_b.jpg" width="1024" height="768" alt="Ultralight camping" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9537712134/" title="Mirror II by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7282/9537712134_1c135a66d0_b.jpg" width="680" height="1024" alt="Mirror II" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9534948843/" title="UL Tenkara fly fishing setup by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2821/9534948843_b9483f1f44_b.jpg" width="1024" height="680" alt="UL Tenkara fly fishing setup" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9534922329/" title="Ramaria flava by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5471/9534922329_a1b6a2e21f_b.jpg" width="1024" height="680" alt="Ramaria flava" /></a></p>
+
+<h2 id="kungsleden">Kungsleden</h2>
+
+<p>A failed trip is also a trip. After the <a href="http://hikinginfinland.com/2013/03/abisko-ice-climbing-festival-2013-experiences.html">Abisko Ice Climbing Festival</a> I had an ambitious plan to ski a loop on the Kundgsleden, though as I took a fall while ice climbing where I injured my knee the skiing was just too painful, and so I returned after having skied 20 km on brand-new skis which I would have loved to take up some fjells. Alas, it was not meant to be, though I will return soon enough for a re-match.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/10571269176/" title="Dynafit Broad Peak by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7348/10571269176_24320b56c0_b.jpg" width="1024" height="680" alt="Dynafit Broad Peak" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10571517553/" title="Shadowboxing I by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5485/10571517553_1cf154a314_b.jpg" width="1024" height="680" alt="Shadowboxing I" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9129268734/" title="Khufu on the Kungsleden"><img src="http://farm3.staticflickr.com/2850/9129268734_56263af54b_b.jpg" width="1024" height="680" alt="Kungsleden" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10571514423/" title="Dusk by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7335/10571514423_5fbb1fcc56_b.jpg" width="1024" height="680" alt="Dusk" /></a></p>
+
+<h2 id="dayhikes--overnighters">Dayhikes &amp; Overnighters</h2>
+
+<p>The largest amount of untold stories are the dozens of <a href="http://www.outdoors.fi/destinations/WorldHeritageSites/kvarkenarchipelago/activities/Pages/Default.aspx">dayhikes</a> and overnighters here in the region. Plenty of great outdoor destinations around Vaasa, not only the <a href="http://hikinginfinland.com/2013/05/a-family-hike-on-the-bodvattnet-runt.html">Kvarken Archipelago</a> which it counts to explore - by bike, packraft, on foot, and soon again on skis and snowshoes.</p>
+
+<p><a href="http://www.flickr.com/photos/hendrikmorkel/10410128705/" title="Dawn by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3799/10410128705_2ce65c655f_b.jpg" width="1024" height="576" alt="Dawn" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/10410103134/" title="Skis, carried. by HendrikMorkel, on Flickr"><img src="http://farm4.staticflickr.com/3704/10410103134_a0acf19995_b.jpg" width="1024" height="680" alt="Skis, carried." /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/9982464505/" title="Reflection. by HendrikMorkel, on Flickr"><img src="http://farm3.staticflickr.com/2813/9982464505_bbbbcd925d_b.jpg" width="1024" height="909" alt="Reflection." /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8839376917/" title="052113_1264 by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7307/8839376917_73a7be00b8_b.jpg" width="1024" height="680" alt="052113_1264" /></a>
+<a href="http://www.flickr.com/photos/hendrikmorkel/8632582072/" title="Hilleberg Anjan 2 by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8389/8632582072_9c86a0a5ec_b.jpg" width="1024" height="680" alt="Hilleberg Anjan 2" /></a></p>
+
+<p><em>These are the Untold Trip Reports, and there will be more of them in the future.</em></p>
+]]></content>
+  </entry>
+  
+</feed>
