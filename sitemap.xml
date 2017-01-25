@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com/hikinginfinland/2017/01/changes.html</loc>
+<lastmod>2017-01-25T23:33:03+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com/hikinginfinland/2016/12/adzhifako-2016.html</loc>
 <lastmod>2016-12-25T23:43:00+02:00</lastmod>
 </url>
@@ -6425,5 +6429,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com/hikinginfinland/page323/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com/hikinginfinland/page324/</loc>
 </url>
 </urlset>
