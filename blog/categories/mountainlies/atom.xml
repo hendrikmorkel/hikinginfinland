@@ -1,4 +1,24 @@
-<p>Just 20 Minutes to the summit? Yeah, right.</p>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mountainlies | Hiking in Finland]]></title>
+  <link href="http://hikinginfinland.com/hikinginfinland/blog/categories/mountainlies/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com/hikinginfinland/"/>
+  <updated>2017-07-06T12:35:31+03:00</updated>
+  <id>http://hikinginfinland.com/hikinginfinland/</id>
+  <author>
+    <name><![CDATA[Hendrik Morkel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The 5 Biggest Mountain Lies]]></title>
+    <link href="http://hikinginfinland.com/hikinginfinland/2017/07/the-5-biggest-mountain-lies.html"/>
+    <updated>2017-07-06T12:33:39+03:00</updated>
+    <id>http://hikinginfinland.com/hikinginfinland/2017/07/the-5-biggest-mountain-lies</id>
+    <content type="html"><![CDATA[<p>Just 20 Minutes to the summit? Yeah, right.</p>
 
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/34911209154/in/dateposted/" title="#MountainLies"><img src="https://farm5.staticflickr.com/4099/34911209154_f01315429d_b.jpg" width="1024" height="768" alt="#MountainLies" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -39,3 +59,7 @@
 <p>Know some <strong>#MountainLies</strong> you have heard yourself countless times? Leave your Mountain Lies in the comments or post it on <a href="https://www.facebook.com/hikinginfinland/">Facebook</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://www.instagram.com/hendrikm/">Instagram</a> using the #MountainLies Hashtag!</p>
 
 <p><strong>Disclaimer</strong>: <em>Thanks to Andreas from Gipfelfieber.com for the inspiration and allowing me to adapt his article to English. Read the <a href="https://gipfelfieber.com/luegen-berg/">Berglügen Artikel auf Deutsch</a>.</em></p>
+]]></content>
+  </entry>
+  
+</feed>
