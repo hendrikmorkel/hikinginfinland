@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com/hikinginfinland/2017/07/dps-dreamtime.html</loc>
+<lastmod>2017-07-19T15:07:23+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com/hikinginfinland/2017/07/how-does-it-taste-firepot-dal-and-rice-with-spinach.html</loc>
 <lastmod>2017-07-17T22:41:12+03:00</lastmod>
 </url>
@@ -5562,5 +5566,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com/hikinginfinland/blog/categories/how-does-it-taste/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com/hikinginfinland/blog/categories/dreamtime/</loc>
 </url>
 </urlset>
