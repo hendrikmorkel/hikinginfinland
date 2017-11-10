@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: racelite.de | Hiking in Finland]]></title>
-  <link href="http://hikinginfinland.com/hikinginfinland/blog/categories/racelite-dot-de/atom.xml" rel="self"/>
-  <link href="http://hikinginfinland.com/hikinginfinland/"/>
-  <updated>2017-11-03T12:49:57+02:00</updated>
-  <id>http://hikinginfinland.com/hikinginfinland/</id>
+  <link href="http://hikinginfinland.com//blog/categories/racelite-dot-de/atom.xml" rel="self"/>
+  <link href="http://hikinginfinland.com//"/>
+  <updated>2017-11-10T14:56:17+02:00</updated>
+  <id>http://hikinginfinland.com//</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[One Stop Shop: Racelite.de]]></title>
-    <link href="http://hikinginfinland.com/hikinginfinland/2014/04/one-stop-shop-racelite-dot-de.html"/>
+    <link href="http://hikinginfinland.com//2014/04/one-stop-shop-racelite-dot-de.html"/>
     <updated>2014-04-08T14:12:00+03:00</updated>
-    <id>http://hikinginfinland.com/hikinginfinland/2014/04/one-stop-shop-racelite-dot-de</id>
+    <id>http://hikinginfinland.com//2014/04/one-stop-shop-racelite-dot-de</id>
     <content type="html"><![CDATA[<p><a href="http://www.racelite.de/">Racelite.de</a> is a shop specializing in trailrunning and lightweight backpacking gear. As trailrunners go fast &amp; light, you can be sure that their list is going to be interesting!</p>
 
 <p><img style="max-width:100%" src="https://farm4.staticflickr.com/3718/13306906195_c885a40d83_b.jpg#tl-503544981185626112;1043138249" class="alwaysThinglink" /><script async="" charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script></p>

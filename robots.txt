@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://hikinginfinland.com/hikinginfinland/sitemap.xml 
+Sitemap: http://hikinginfinland.com//sitemap.xml 
