@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2017/11/advent-calendar-2017-the-rules.html</loc>
+<lastmod>2017-11-29T09:37:19+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2017/11/winter-fun-in-ruka.html</loc>
 <lastmod>2017-11-13T21:29:34+02:00</lastmod>
 </url>
@@ -5637,15 +5641,6 @@
 <loc>http://hikinginfinland.com//blog/categories/ortovox/</loc>
 </url>
 <url>
-<loc>http://hikinginfinland.com//blog/categories/advent/</loc>
-</url>
-<url>
-<loc>http://hikinginfinland.com//blog/categories/calendar/</loc>
-</url>
-<url>
-<loc>http://hikinginfinland.com//blog/categories/2016/</loc>
-</url>
-<url>
 <loc>http://hikinginfinland.com//blog/categories/advent-calendar-2016/</loc>
 </url>
 <url>
@@ -5731,5 +5726,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/ruka/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/advent-calendar-2017/</loc>
 </url>
 </urlset>
