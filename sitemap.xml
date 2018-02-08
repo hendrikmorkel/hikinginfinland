@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2018/02/2018-ispo-impressions.html</loc>
+<lastmod>2018-02-08T12:06:31+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2018/02/impressions-from-the-salzburger-lungau.html</loc>
 <lastmod>2018-02-05T19:17:17+02:00</lastmod>
 </url>
@@ -5872,6 +5876,9 @@
 <loc>http://hikinginfinland.com//blog/categories/osprey/</loc>
 </url>
 <url>
+<loc>http://hikinginfinland.com//blog/categories/ispo-2018/</loc>
+</url>
+<url>
 <loc>http://hikinginfinland.com//page2/</loc>
 </url>
 <url>
@@ -6917,5 +6924,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//page350/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//page351/</loc>
 </url>
 </urlset>
