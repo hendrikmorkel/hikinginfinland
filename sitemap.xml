@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2018/05/cottage-interview-paul-stokes-of-tread-lite-gear.html</loc>
+<lastmod>2018-05-21T20:46:59+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2018/05/eno-sub6-hammock-review.html</loc>
 <lastmod>2018-05-18T21:20:54+03:00</lastmod>
 </url>
@@ -5934,5 +5938,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/eno/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/tread-lite-gear/</loc>
 </url>
 </urlset>
