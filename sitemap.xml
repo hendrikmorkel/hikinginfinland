@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2018/06/cottage-interview-tom-gale-of-atom-packs.html</loc>
+<lastmod>2018-06-11T19:08:30+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2018/06/impressions-from-the-causeway-coast-way.html</loc>
 <lastmod>2018-06-04T19:43:53+03:00</lastmod>
 </url>
@@ -4275,13 +4279,13 @@
 <loc>http://hikinginfinland.com//</loc>
 </url>
 <url>
-<loc>http://hikinginfinland.com//interviews/</loc>
-</url>
-<url>
 <loc>http://hikinginfinland.com//gear-reviews/</loc>
 </url>
 <url>
 <loc>http://hikinginfinland.com//destinations/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//interviews/</loc>
 </url>
 <url>
 <loc>http://hikinginfinland.com//about/</loc>
@@ -5962,5 +5966,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/causeway-coast-way/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/atom-packs/</loc>
 </url>
 </urlset>
