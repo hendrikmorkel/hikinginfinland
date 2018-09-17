@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2018/09/impressions-from-are-and-valadalen.html</loc>
+<lastmod>2018-09-17T20:20:18+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2018/09/camp-ousland.html</loc>
 <lastmod>2018-09-03T19:58:16+03:00</lastmod>
 </url>
@@ -6022,6 +6026,12 @@
 <loc>http://hikinginfinland.com//blog/categories/camp-ousland/</loc>
 </url>
 <url>
+<loc>http://hikinginfinland.com//blog/categories/are/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/valadaalen/</loc>
+</url>
+<url>
 <loc>http://hikinginfinland.com//page2/</loc>
 </url>
 <url>
@@ -7094,5 +7104,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//page359/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//page360/</loc>
 </url>
 </urlset>
