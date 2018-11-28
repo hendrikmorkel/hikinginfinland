@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2018/11/scaling-gear-1p-to-3p.html</loc>
+<lastmod>2018-11-28T20:46:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2018/11/osprey-exos-48-review.html</loc>
 <lastmod>2018-11-21T21:21:08+02:00</lastmod>
 </url>
@@ -6060,5 +6064,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/black-friday/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/solo-hiking/</loc>
 </url>
 </urlset>
