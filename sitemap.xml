@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2019/02/impressions-from-are.html</loc>
+<lastmod>2019-02-01T13:52:17+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2019/01/twir-289.html</loc>
 <lastmod>2019-01-11T10:44:39+02:00</lastmod>
 </url>
@@ -7169,5 +7173,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//page363/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//page364/</loc>
 </url>
 </urlset>
