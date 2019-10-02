@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2019/10/mountainbiking-in-lapland.html</loc>
+<lastmod>2019-10-02T20:42:06+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2019/09/wild-foods-of-lapland.html</loc>
 <lastmod>2019-09-30T18:01:34+03:00</lastmod>
 </url>
@@ -6274,6 +6278,9 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/germany/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/mtb/</loc>
 </url>
 <url>
 <loc>http://hikinginfinland.com//page2/</loc>
