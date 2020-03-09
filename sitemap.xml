@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2020/03/european-trail-days-2020.html</loc>
+<lastmod>2020-03-09T13:04:01+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2020/03/la-sportiva-crossover-2-dot-0-gtx.html</loc>
 <lastmod>2020-03-05T10:19:03+02:00</lastmod>
 </url>
@@ -6316,6 +6320,9 @@
 <loc>http://hikinginfinland.com//blog/categories/shoes/</loc>
 </url>
 <url>
+<loc>http://hikinginfinland.com//blog/categories/trail-days-2020/</loc>
+</url>
+<url>
 <loc>http://hikinginfinland.com//page2/</loc>
 </url>
 <url>
@@ -7442,5 +7449,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//page377/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//page378/</loc>
 </url>
 </urlset>
