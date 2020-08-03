@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2020/08/awesome-maps-made-my-man-cave-prettier.html</loc>
+<lastmod>2020-08-03T15:04:43+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2020/07/under-2-kg-baseweight-sul-summer-backpacking.html</loc>
 <lastmod>2020-07-30T12:11:13+03:00</lastmod>
 </url>
@@ -6407,5 +6411,14 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/sul/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/maps/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/man/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/cave/</loc>
 </url>
 </urlset>
