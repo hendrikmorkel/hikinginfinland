@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2020/10/impressions-from-the-mullerthal-trail.html</loc>
+<lastmod>2020-10-13T13:37:46+03:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2020/10/reuseable-face-masks.html</loc>
 <lastmod>2020-10-01T10:46:42+03:00</lastmod>
 </url>
@@ -6469,5 +6473,14 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//blog/categories/covid-19/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/luxembourg/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/mullerthal/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//blog/categories/trail/</loc>
 </url>
 </urlset>
