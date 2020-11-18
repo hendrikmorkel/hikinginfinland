@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2020/11/the-digital-dilemma.html</loc>
+<lastmod>2020-11-18T19:17:37+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2020/11/patagonia-r1-air-review.html</loc>
 <lastmod>2020-11-12T16:26:23+02:00</lastmod>
 </url>
@@ -6502,6 +6506,9 @@
 <loc>http://hikinginfinland.com//blog/categories/luxembourg-trip-reports/</loc>
 </url>
 <url>
+<loc>http://hikinginfinland.com//blog/categories/social-media/</loc>
+</url>
+<url>
 <loc>http://hikinginfinland.com//page2/</loc>
 </url>
 <url>
@@ -7655,5 +7662,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//page386/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//page387/</loc>
 </url>
 </urlset>
