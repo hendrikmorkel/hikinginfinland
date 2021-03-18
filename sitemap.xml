@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hikinginfinland.com//2021/03/fatbiking-in-saariselka.html</loc>
+<lastmod>2021-03-18T07:16:52+02:00</lastmod>
+</url>
+<url>
 <loc>http://hikinginfinland.com//2021/02/impressions-from-saariselka.html</loc>
 <lastmod>2021-02-15T12:23:25+02:00</lastmod>
 </url>
@@ -7721,5 +7725,8 @@
 </url>
 <url>
 <loc>http://hikinginfinland.com//page389/</loc>
+</url>
+<url>
+<loc>http://hikinginfinland.com//page390/</loc>
 </url>
 </urlset>
