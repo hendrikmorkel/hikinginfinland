@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: bikepacking | Hiking in Finland]]></title>
+  <title><![CDATA[Category: bikepacking, | Hiking in Finland]]></title>
   <link href="http://hikinginfinland.com//blog/categories/bikepacking/atom.xml" rel="self"/>
   <link href="http://hikinginfinland.com//"/>
-  <updated>2021-04-26T14:44:35+03:00</updated>
+  <updated>2021-05-11T12:02:24+03:00</updated>
   <id>http://hikinginfinland.com//</id>
   <author>
     <name><![CDATA[Hendrik Morkel]]></name>
@@ -14,231 +14,309 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Bikepacking on the Wild Trails of Britain]]></title>
-    <link href="http://hikinginfinland.com//2016/05/bikepacking-on-the-wild-trails-of-britain.html"/>
-    <updated>2016-05-27T23:58:00+03:00</updated>
-    <id>http://hikinginfinland.com//2016/05/bikepacking-on-the-wild-trails-of-britain</id>
-    <content type="html"><![CDATA[<p>From <a href="https://hikinginfinland.com/2016/05/wild-atlantic-way.html">Ireland</a> to Britain: Bikepacking on the Wild Trails of Britain takes you &amp; your bike on the most beautiful multi-day rides in Wales, Scotland and England.</p>
+    <title type="html"><![CDATA[How-to go Tubeless]]></title>
+    <link href="http://hikinginfinland.com//2017/08/schwalbe-tubeless-easy-kit.html"/>
+    <updated>2017-08-08T19:00:59+03:00</updated>
+    <id>http://hikinginfinland.com//2017/08/schwalbe-tubeless-easy-kit</id>
+    <content type="html"><![CDATA[<p>Tired of punctures &amp; flat tires? Go Tubeless and don’t worry about them anymore. In this article I show how you can convert your bike to tubeless tires with the help of the Schwalbe Tubeless Easy Kit, your one stop solution with everything you need to go Tubeless.</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/27183101282/in/dateposted/" title="Bikepacking"><img src="https://c3.staticflickr.com/8/7252/27183101282_48e647f3ba_b.jpg" width="1024" height="683" alt="Bikepacking" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/35603377424/in/dateposted/" title="The Gear needed"><img src="https://farm5.staticflickr.com/4385/35603377424_4229d4b0d5_b.jpg" width="1024" height="576" alt="The Gear needed" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <!-- more -->
 
-<p>Bikepacking is a big trend these days (check the <a href="https://hikinginfinland.com/2015/02/bikepacking-bag-manufacturers.html">The Bikepacking Framebag Manufacturer List</a> to see how to transform your bike into a bikepacking rig) so it was a nice surprise as I was contacted by Wild Things Publishing and a question if they could use one of my photos in the book. Sure they could! As a wee thank you they sent me a copy of the book, and as I love alternative travel guide books <em>Bikepacking on the Wild Trails of Britain</em> was right up my alley.</p>
+<p><strong>Disclaimer:</strong> <em>Schwalbe has provided me the Tires, Tire Booster and Tubeless Easy Kit for free for this article. This did not influence the article as I maintain full editorial control of the content published on this site. Read the <a href="https://hikinginfinland.com/about/">Transparency Disclaimer</a> for more information on affiliate links &amp; blogger transparency.</em></p>
 
-<p>It is another beautiful book that will inspire you to pack up your bike and head to Britain in order to ride one (<em>or more!</em>) of the presented trips. From Epic Wilderness Rides over Family Rides to Technical &amp; Coastal Trails, the book presents 30 trips which range from a night to a week or riding in the countryside of Britain. The book starts off with an introduction to bikepacking and some history, some stories to get you in the mood, tips on gear - including a cool short chapter on tarps! - and how to plan a ride. In short: All you need to get on your bike and head out for a night or more in the wild. After the introduction it takes you on the different rides, which make up the majority of the book. These are sorted by regions in the UK - from the South East to the South West of England to the Midlands, Scotland and Wales. A map of the UK in the beginning highlights where these trips are to be found (good for planning) and a table on the next page gives  quick overview of relevant data about the rides - including distance, ascent and how many percent of the ride are off-road.</p>
+<p>Flat tires on 29” wheels, they where common for me back with my old 29er. Happily I started to drive more careful and punctures have been rare in the last several years, but as I welcomed the Trek 920 Disc to the family I decided I wanted to ride it Tubeless. There where some good reasons for that:</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/27183101142/in/dateposted/" title="Bikepacking"><img src="https://c7.staticflickr.com/8/7326/27183101142_3113691725_b.jpg" width="1024" height="683" alt="Bikepacking" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<ul>
+  <li><strong>You can save weight.</strong> I’m still a ultralight backpacker at heart and if there’s a possibility to save weight then I’ll take it.</li>
+  <li><strong>Adiós, Punctures!</strong> Don’t like that sound of your inner tube going flat? I hate it, and with a healthy dose of your Latex liquid in your tube that sound is unlikely to reach your ears again.</li>
+  <li><strong>Traction, baby!</strong> Less pressure on the tires means you have more traction - pretty useful in sharp curves and lose trails.</li>
+</ul>
 
-<p>I loved the very well designed info boxes which had all needed information ready with one look, a small map which gave a good idea of the ride (though you’ll need a real map for your adventure) and the beautiful photos. The trip descriptions are entertaining little trip reports in their own which will make you anticipate your own ride even more. All in all a unique book that is beautifully designed &amp; presented. If you’re into bikepacking and want to go to Britain for a wee adventure or more, this book is a recommended read!</p>
+<p>So, with three good reasons to get rid of inner tubes I set out on a sunny afternoon to convert my 920 Disc to Tubeless. It isn’t a quick operation by all means so make sure you have a couple of hours of peace to go about this. Here’s what you’ll need:</p>
 
-<p>Buy it directly from <a href="http://www.wildthingspublishing.com/product/bikepacking-book/">Wild Things Publishing</a> or <a href="http://amzn.to/1Z5i3Sr">Amazon.com</a>, <a href="http://amzn.to/27UUYI3">Amazon.co.uk</a> or <a href="http://amzn.to/1Z5hJmE">Amazon.de</a>.</p>
+<ul>
+  <li>Tubeless-Ready Rims</li>
+  <li>Tubeless-Ready Tires, I chose the <a href="https://www.bergfreunde.de/schwalbe-thunder-burt-tl-easy-29er-psc-snakeskin-faltbar/?pid=10239">Schwalbe Thunder Burt Evo SnakeSkin PaceStar 29x2,10” TL-Easy Folding</a></li>
+  <li><a href="https://www.bergfreunde.de/schwalbe-tubeless-easy-kit-23-fahrradreifen/?pid=10239">Schwalbe Tubeless Easy Kit</a></li>
+  <li>Schwalbe Tire Booster or a compressor</li>
+  <li>Floor pump</li>
+  <li>A bucket with soapy water and some rags</li>
+</ul>
 
-<p><em>Disclaimer: The book was sent for free to me by the publisher. This does not influence the article as I maintain full editorial control of the content published on this site. There are affiliate links in this article. Read the <a href="https://hikinginfinland.com/about/">Transparency Disclaimer</a> for more information on affiliate links &amp; blogger transparency.</em></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/35630505293/in/dateposted/" title="Frontwheel finished!"><img src="https://farm5.staticflickr.com/4357/35630505293_650cc34354_b.jpg" width="1024" height="936" alt="Frontwheel finished!" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Alright, with all your tools and gear ready it’s time to start.</p>
+
+<ol>
+  <li>
+    <p>Preparation is KEY! Your Tire Booster needs to be “primed” first, so take your floor pump and put some 11 bars of air in it - that way you don’t need to do it later. Also, a good thing to do is to unfold your tire - if you’re using a tire that comes folded like I did - before you start the whole operation - and hang it into the sun. It will warm up and get a tiny, tiny bit more flexible which makes it easier to put on the rim later.</p>
+  </li>
+  <li>
+    <p>Lets first check if your rim is Tubeless-Ready. If it is it should be written on it somewhere - either it reads <em>Tubeless Ready</em> or <em>“TLR”</em> somewhere. If they are: Great, that saved you several hundred Euros for new Rims!</p>
+  </li>
+</ol>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36269911182/in/dateposted/" title="Is the Rim Tubeless Ready?"><img src="https://farm5.staticflickr.com/4437/36269911182_390912e928_b.jpg" width="1024" height="576" alt="Is the Rim Tubeless Ready?" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<ol>
+  <li>Time to deflate the tube, remove tire + tube + old rim tape, and get cleaning. Take a soapy rag and clean the inside (and while you’re at it, also the outside) of the rim, remove all dirt &amp; dust and then dry it well off. That’s because the next step is quite crucial for the success of the whole operation, and if you hurry through this you might do it twice, so calm and relaxed proceed you shall. Now you grab the <a href="https://www.bergfreunde.de/schwalbe-tubeless-felgenband-fahrradreifen/?pid=10239">Tubeless Rim Tape</a> (these are available in different widths, make sure to buy the one which works best for your rim!) and apply careful and precisely the tape to the inside of the rim. Start opposite of the hole where the valve will go through later, and apply it carefully and cleanly with a lot of pressure to the rim, and avoid air bubbles. I say it again: <em>This is a very important step, so don’t hurry and take your time.</em> If you’ve gone once around and reach the start go another 5 to 10 cm and then cut the tape. Now take the Tubeless Valve from the <a href="https://www.bergfreunde.de/schwalbe-tubeless-easy-kit-23-fahrradreifen/?pid=10239">Tubeless Easy Kit</a> and put it through the rim tape where it belong. Make sure to screw it tightly onto the rim, as the area around the valve can be a point where air easily escapes.</li>
+</ol>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36269912682/in/dateposted/" title="Schwalbe Tubeless Easy Kit"><img src="https://farm5.staticflickr.com/4341/36269912682_197bcfa340_b.jpg" width="1024" height="576" alt="Schwalbe Tubeless Easy Kit" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/35630508523/in/dateposted/" title="New rim tape"><img src="https://farm5.staticflickr.com/4354/35630508523_5cbe19f5f5_b.jpg" width="1024" height="576" alt="New rim tape" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36301263271/in/dateposted/" title="Rim Tape Done!"><img src="https://farm5.staticflickr.com/4346/36301263271_e688da6355_b.jpg" width="1024" height="576" alt="Rim Tape Done!" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<ol>
+  <li>
+    <p>Time to take your <a href="https://www.bergfreunde.de/schwalbe-thunder-burt-tl-easy-29er-psc-snakeskin-faltbar/?pid=10239">Tubeless Tire</a> and mount it carefully onto the rim. If you can don’t use the tire lever as it might damage the rim tape - if you had your unfolded tire hang in the sun this should be possible. Make sure that the tire’s beads are on each side of the valve before you head on.</p>
+  </li>
+  <li>
+    <p>Time to inflate! Apply a generous coating of the <a href="https://www.alpinetrek.co.uk/schwalbe-montagefluid-easy-fit-bike-tires/?pid=10239">Easy Fit</a> assembly liquid to both sides of the tire beads, the (clean!) soapy water would work too. For the first inflation a powerful burst of air is needed so take the Tire Booster (or if you have one, the compressor) and attach it to the valve. It makes sense to take the top of the valve off to allow more air through-flow, you get a wee tool for that in the Tubeless Easy Kit. Alrighty, this is the moment of truth: Open the Tire Booster and see how your Tubeless Tire inflates. It should set with several loud <strong>BANG!</strong> sounds onto the rim, only if you hear that you know everything went as planned. You need to check the line on the tire to control if the complete tire is correctly mounted, if not knead and push the tire to get it into the right position.</p>
+  </li>
+</ol>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36042172070/in/dateposted/" title="Easy Fit!"><img src="https://farm5.staticflickr.com/4401/36042172070_5cb9d07278_b.jpg" width="1024" height="576" alt="Easy Fit!" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36269910952/in/dateposted/" title="Tire Booster in action"><img src="https://farm5.staticflickr.com/4381/36269910952_d1dbe91ae1_b.jpg" width="576" height="1024" alt="Tire Booster in action" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>This can be a stressful moment if you don’t hear that loud bang which indicates that the tire beads have engaged the rim - I tried for over an hour to get it to set down. The thing is that 29” tires (and Fatbike Tires even more so) take a lot of air to fill and that in my case the Tire Booster didn’t have enough power to engage the complete tire - it didn’t set down on a couple of places which means that the air was escaping and I couldn’t move on. The solution is to empty the whole Tire Booster into the Tire to get the Tire to set down on as many places on the rim as possible, and then switch to the Floor Pump and keep on inflating the tire. This did the trick for me - the tire looked almost like it was going to burst but in the end I heard the several loud bangs which meant the tire was now fully engaged to the rim. Success, at last!</p>
+
+<ol>
+  <li>Now that the tire sits on the rim you can take the pump/ compressor/ Tire Booster off the valve. This will deflate the tire a wee bit, but that’s not a problem. Remove the valve insert if you haven’t done that already in the previous step and take a bottle of the <a href="https://www.alpinetrek.co.uk/schwalbe-doc-blue-professional-inner-tube/?pid=10239">Doc Blue puncture protection liquid</a> - now it’s time to put it into your Tire and make it Tubeless! You can easily fill the bottle through the valve into the tire - for 29” tires you use the whole 60 ml, smaller tires need less. Once the bottle is empty you put the valve insert back, take the floor pump and inflate the tire again - around 2 bar for these 29” tires is good for starters. Remove the pump, close the valve and now you’ll need to roll and shake the tire for quite a bit - the goal is to distribute the puncture protection liquid everywhere in the tire so that an even cover covers it from the inside. To check the tire once more for leaks you can cover the outside of the tire along the rim with your soapy water - there where there’s bubbles building up you need to move the puncture protection liquid on the inside to cover it better.</li>
+</ol>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/35630506573/in/dateposted/" title="Doc Blue goes in!"><img src="https://farm5.staticflickr.com/4372/35630506573_cb13980646_b.jpg" width="1024" height="576" alt="Doc Blue goes in!" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36301261941/in/dateposted/" title="Checking for leaks"><img src="https://farm5.staticflickr.com/4430/36301261941_c9929cd00c_b.jpg" width="1024" height="576" alt="Checking for leaks" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>If the tire now stays inflated you can attach it back to the bike and get started on the second wheel, after which you should head out for a test ride. All good? Then pack up your bike and head out on a bikepacking Microadventure - Tubeless Edition!</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/36269915742/in/dateposted/" title="Schwalbe Thunder Burt Tubeless"><img src="https://farm5.staticflickr.com/4370/36269915742_7e1a2ca31b_b.jpg" width="1024" height="576" alt="Schwalbe Thunder Burt Tubeless" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>I’m now riding since over a month Tubeless and love it. I can ride my tires with less pressure on the trails which equals better traction, but of course the biggest benefit for me is that I don’t need to worry about punctures and snake bites anymore, as the puncture protection liquid seals those immediately should they happen. It’s just a great feeling to know that you can ride how you want without needing to worry that you might end up with a flat tire! Finally, if you’re a friend of moving pictures then have a look at <a href="https://youtu.be/M2fVuTqicCc">this video</a> which is by and far the best on how to convert your tires to tubeless tires! More Information on Tubeless you can find on the <a href="https://www.schwalbe.com/en/tubeless-technology.html">Schwalbe Tubeless</a> Website, while the <a href="https://www.schwalbe.com/en/tubeless.html">Tubeless FAQ</a> can answer additional questions you might have.</p>
+
+<script src="//publisher.outtra.com/themes/frontend/eom/assets/js/outtra-productwall.js?publisher_id=173&amp;widget_id=1281" type="text/javascript" id="outtraproductwallwdgt1731281" data-publisherid="173" data-outtrapwwdgt="1281"></script>
+
+<p><em>If you enjoyed this &amp; other articles why not <a href="https://paypal.me/hendrikmorkel">support me with a coffee or two</a>? I work Full-Time on Hiking in Finland to bring you inspiring trip reports, in-depth gear reviews and the latest news from the outdoors. You also could <a href="http://hikinginfinland.us2.list-manage1.com/subscribe?u=b29c2acd04d959eace48da780&amp;id=46b5d0326f">subscribe to the rarer-than-ever Newsletter</a> and follow along on <a href="https://instagram.com/hendrikm/">Instagram</a>, <a href="https://twitter.com/hendrikmorkel">Twitter</a> and <a href="https://www.youtube.com/user/Habichtshorst/">Youtube</a> for more outdoorsy updates!</em></p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/35603378504/in/dateposted/" title="Off on Tubeless Adventures"><img src="https://farm5.staticflickr.com/4383/35603378504_24246ae466_b.jpg" width="1024" height="576" alt="Off on Tubeless Adventures" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Biketouring Portugal: Lisbon to Porto]]></title>
-    <link href="http://hikinginfinland.com//2016/02/biketouring-portugal-lisbon-to-porto.html"/>
-    <updated>2016-02-12T23:40:00+02:00</updated>
-    <id>http://hikinginfinland.com//2016/02/biketouring-portugal-lisbon-to-porto</id>
-    <content type="html"><![CDATA[<p>Last year I was fortunate to escape the dreaded month of November for a week and enjoy sunshine &amp; cycling along the coast of Portugal, riding over 500 km from Lisbon to Porto.</p>
+    <title type="html"><![CDATA[The Bikepacking Framebag Manufacturer List]]></title>
+    <link href="http://hikinginfinland.com//2015/02/bikepacking-bag-manufacturers.html"/>
+    <updated>2015-02-24T18:46:00+02:00</updated>
+    <id>http://hikinginfinland.com//2015/02/bikepacking-bag-manufacturers</id>
+    <content type="html"><![CDATA[<p>Fatbikes, Mountain Bikes, 29er, Road Bikes and Bikepacking go hand-in-hand. So that you are ready for your next bikepacking adventure and don’t need to rely on old panniers which make riding Singletrack simply not fun, here’s an up-to-date list of people and companies which produce framebags.</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23170406440/in/album-72157659581645884/" title="Cabo da Roca"><img src="https://farm6.staticflickr.com/5701/23170406440_011dc7899e_b.jpg" width="1024" height="683" alt="Cabo da Roca" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<!-- more -->
-
-<p>After thru-hiking the <a href="https://hikinginfinland.com/2015/01/hogakustenleden-the-high-coast-trail.html">High Coast Trail</a> in November of 2014 and experiencing all the weather you can expect in November in Scandinavia - snow, sleet, rain, grey clouds as far as you can see and a tiny bit of sun - my mind was set on the south for outdoor trips in November. Last year it was so far: I boarded a plane in Vaasa with my <a href="https://hikinginfinland.com/2014/11/pelago-bicycles-stavanger.html">Pelago Stavanger</a> and flew to Lisbon, where +20°C temperatures and sunshine where waiting for me. During the following weeks I will share the adventure of riding in this beautiful country, but I already now want to get you in the mood for cycling in Portugal!</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23380978901/in/album-72157659581645884/" title="Hello Beach!"><img src="https://farm1.staticflickr.com/720/23380978901_4d30838bf6_b.jpg" width="1024" height="683" alt="Hello Beach!" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>Riding from Lisbon to Porto made a lot of sense to me while planning this trip. And there were even other people who have done similar tours. But being on the road for a week and cycling North, I quickly decided that I makes more sense to do this trip the other way around. The reason is the North-Westerly wind which I had every day, and while Headwind is to be expected when cycling, some days I was swearing so much about the f#€k!n6 headwind that I made a mental note to recommend this tour the other way around. It’s a lot nicer to cycle with tailwind than cycling against a headwind which slows you sometimes down so much that you’re almost standing still.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22835147394/in/album-72157659581645884/" title="Lighthouse"><img src="https://farm6.staticflickr.com/5762/22835147394_f5b1594fd6_b.jpg" width="1024" height="683" alt="Lighthouse" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>I rode from Cascais, a suburb of Lisbon, to Sintra on Day 1, an easy 40 km which also took me to Cabo da Roca, the most westerly point of the European continent. On day 2 I managed to ride a 20 km Detour so that I arrived in Peniche at dusk with over 114 km cycled, while Day 3 where only 90 km to São Pedro de Moel where the fine Lighthouse above was warning the ships out in the ocean.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23383680491/in/album-72157659581645884/" title="10% at 40 km/h please."><img src="https://farm6.staticflickr.com/5682/23383680491_027093f765_b.jpg" width="1024" height="683" alt="10% at 40 km/h please." /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22839048623/in/album-72157659581645884/" title="Aveiro"><img src="https://farm1.staticflickr.com/629/22839048623_5f79624a5c_b.jpg" width="1024" height="683" alt="Aveiro" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>Day 4 I cycled to Coimbra which had me swearing the most about the headwind as I was cycling on a completely straight road to Pedrogão, though happily it got a bit less windy as I cycled inland. Cycling to Aveiro on Day 5 was more relaxed, though the cycling out of Coimbra in the fog with a visibility of less than 100 m had me scared about being crashed into a couple of times. On my last day to Porto I was cycling inland through tranquil little villages, up steep, steep cobblestone roads in the middle of the forest and then finally crossed the bridge into Porto, which put a big smile on my face.</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/22835148504/in/album-72157659581645884/" title="Speed"><img src="https://farm1.staticflickr.com/734/22835148504_8867470aa2_b.jpg" width="1024" height="683" alt="Speed" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p>If you want to escape November in Scandinavia &amp; Central Europe go cycling or hiking in Portugal, where it is a beautiful sunny month with nice temperatures. I had help from <a href="http://a2z-adventures.com/en/">A2Z Adventures</a> during the planning and execution of my trip, and if you don’t want to go to Portugal on your own or fly with your bike join one of their <a href="http://a2z-adventures.com/en/find-trip/biking">Biking Trips</a> - they have everything from self-guided trips to a guide cycling next to you and telling you all about the country. I cycled light and slept in B&amp;Bs and Hotels along the way, and traded the stove and freezer bag meals to Lunches and Dinners in Cafés and Restaurants - Portugal is very affordable for Scandinavians. More coming soon, so <em>stay tuned for my Day-to-Day account coming to your favourite Scandinavian Outdoor Travel Blog!</em></p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hendrikmorkel/23463494785/in/album-72157659581645884/" title="Cockpit bird&#x27;s eye view"><img src="https://farm1.staticflickr.com/709/23463494785_264b62b11f_b.jpg" width="1024" height="683" alt="Cockpit bird&#x27;s eye view" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p><em>Disclaimer: This trip was made possible with the help of <a href="https://www.visitportugal.com/en">Visit Portugal</a> and <a href="http://www.flytap.com/">TAP Portugal</a> as a research trip for a story which will appear in the <a href="http://www.biketravel-magazin.com">Bike &amp; Travel Magazine</a>.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[24 = 9]]></title>
-    <link href="http://hikinginfinland.com//2012/09/24-equals-9.html"/>
-    <updated>2012-09-06T17:00:00+03:00</updated>
-    <id>http://hikinginfinland.com//2012/09/24-equals-9</id>
-    <content type="html"><![CDATA[<p><em>Somtimes trips don’t go according to plan.</em> That’s especially annoying if you don’t get to go on as much trips as you’d like to, and try to make each trip count. While I didn’t put myself under any stress to make this trip a success, outside influences made this 24 trip a lot shorter. <em>A trip report, sort of.</em></p>
-
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7855697732/" title="Onwards by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8445/7855697732_49d53411aa_b.jpg" width="1024" height="680" alt="Onwards" /></a></p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/10410128705" title="Dawn by Hendrik Morkel, on Flickr"><img src="https://farm4.staticflickr.com/3799/10410128705_2ce65c655f_b.jpg" width="1024" height="576" alt="Dawn" /></a></p>
 
 <!-- more -->
 
-<p>Remember when <strong>24</strong> trips were all the rage? That’d be about two years ago, when Ryan Jordan coined the 24 term for overnighters. He wrote a few superb trip reports and thoughts on 24 trips, and many took up the idea of these short trips, which didn’t need days of planning, but you just grab your kit, food, a map and go to the trail head, hike for a few hours, pitch and spend a fine night outside, before heading back the next morning. The idea is still as great as back then, because just getting away for a few hours, going outdoors, can be enough to recharge your batteries for normal life.</p>
+<p>Framebags allow you to explore trails and tracks with all your gear packed in a lightweight, streamlined and rack-less method, without any panniers which hang off the back and front wheels and which make navigating singletrail tracks not pleasueable - if not impossible. With your camping gear in framebags - which covers handelbar bags, seatbags, top tube bags and (half) frame bags - you have a possibility to carry all your gear on your bike and are able to explore trails far off the beaten track, with your bike behaving as responsive and ergonomic as usual.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7855691676/" title="Lingon berries are ripe by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8428/7855691676_53c81ae7ea_b.jpg" width="1024" height="680" alt="Lingon berries are ripe" /></a></p>
+<p>But not just for off-road travel by bike framebags are a smart choice, also for cycle-touring and commuting a half frame bag and top tube bag are great choices to store essential gear on the go. You easily can carry a pump, patch kit and more in a half frame bag, and the top tube bag stores snacks, your camera and phone with easy access during your ride. Both my bikes sport frame bags and I wouldn’t want to miss them on bikepacking adventures and commutes to town.</p>
 
-<p>With an eleven month old baby son and a house renovation which we mightly underestimated, I was delighted as my wife gave me an OK for an overnighter. “<em>Be back before noon on Saturday, so we can get some Raspberries from the market.</em>” was the only condition. Spending eight plus hours working on my house Monday to Friday for four months already is taxing, and going outdoors is for me a good way to recharge and get ready for more of it.</p>
+<p>For easier reference I sorted the makers into locations - Europe, North America and the rest of the world. Know someone who should be on this list? <a href="mailto:hendrik@hikinginfinland.com">Email me</a>.</p>
 
-<p>I visited the supermarket after few hours at work to grab some torillas and salami for lunch and snacking, as well as my new favourite trail snack, Honey Roasted Nuts. Back at home I went to pack my <a href="http://www.porcelainrocket.com/">Porcelain Rocket frame packs</a>, threw a 3 litre reservoir into my <a href="http://www.avantlink.com/click.php?tt=cl&amp;mi=10060&amp;pw=73183&amp;url=http%3A%2F%2Fwww.backcountry.com%2Fosprey-packs-raptor-18-hydration-pack-1100cu-in">Osprey Raptor 18</a> and after my son was asleep, taking his afternoon nap, I kissed my wife good bye and went to dress up my bike in its fine garments.</p>
+<h1 id="north-american-makers">North American Makers</h1>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7938380460/" title="Bicycle by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8457/7938380460_cff51c9186_b.jpg" width="1024" height="680" alt="Bicycle" /></a></p>
+<p><a href="https://hikinginfinland.com/2015/02/bikepacking-bag-manufacturers.html" title="Porcelain Rocket Website by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8573/16439818958_87688c7c3e_b.jpg" width="1024" height="620" alt="Porcelain Rocket Website" /></a></p>
 
-<p>Where to go? I decided to visit the island of Köklot, part of the Kvarken Archipelago, Finland’s only UNESCO Natural World Heritage Site. I have visited the area in the past, and decided, that while riding to the main island which I have seen before, this little island on the site would be more interesting. A small beach, around 30 km from Vaasa, was were I planned to spend the night.</p>
+<h2 id="revelate-designs">Revelate Designs</h2>
 
-<p>As riding on highways isn’t my favourite way to travel, I drove along backroads along the coast. Backroads in Finland are pretty good to cover distance, as you encounter minimum traffic. The scenery is dotted with summer cottages, though some are more like proper houses, and through the trees I glimpsed here and there the Baltic Sea. As I reached the end of the road I took a turn into the forest, where I found a trail which followed the power line. Along the trail, which was only just suited to riding, lingon berries and mushrooms were ripe for the taking. To my surprise, still a lot of mosquitos were around, and I made a happy mental note that it was smart that I took the mosquito headnet.</p>
+<p><a href="http://www.revelatedesigns.com">Revelate Designs</a> is probably the first framebag maker which many come across. Eric and his team have been making framebags in Alaska since 2007 and nowadays also make framebags for Salsa and other bike companies. They produce the whole setup and also offer custom work. You can <a href="http://hikinginfinland.com/2010/11/interview-eric-parsons-from-revelate-designs.html">read my interview with Eric here</a>.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7938444236/"><img src="http://farm9.staticflickr.com/8310/7938444236_e90a5726ed_b.jpg" width="1024" height="680" /></a></p>
+<h2 id="porcelain-rocket">Porcelain Rocket</h2>
 
-<p>After a bit of bushwacking I finally reached the forest road I aimed for, and soon I was making good speed again. Then it didn’t take long to reach the highway, though fortunately I only needed to share the road a few hundred meters with the moronic car drivers, racing past me, until I made it to a cycle lane next to the street. From here it was smooth riding till the Raippaluoto bridge, Finland’s longest bridge. I drove a bit onto it, for the view, before I turned back.</p>
+<p>I own a complete set of <a href="http://www.porcelainrocket.com">Porcelain Rocket</a> Framebags for my <a href="http://hikinginfinland.com/2011/09/driving-in-the-mud-rain.html">29er</a> and love them. Scott and his team make a lot of custom bags and also have many great standard bags which will fit your bike. You can get your whole setup from PR as well as Salsa Anything Cage Bags. <a href="http://hikinginfinland.com/2012/08/interview-scott-felter-of-porcelain-rocket.html">Read the interview with Scott here</a>.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7938459112/" title="Speed limit by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8308/7938459112_b5e427dbe5_b.jpg" width="1024" height="681" alt="Speed limit" /></a></p>
+<h2 id="bedrock-bags">Bedrock Bags</h2>
 
-<p>A small break at a rather well-equipped parking lot, where I picked some raspberries, followed. I was less than two hours on the road, and already covered some good distance. That the weather wasn’t very inspiring didn’t bother me too much, these various shades of grey had their own charme, and I was in good hopes that there would be a nice sunset and -rise to enjoy.</p>
+<p><a href="http://www.bedrockbags.com">Bedrock Bags</a> are from Colorado. All bags are custom order and you can get a whole set from them.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7857951104/" title="Raippaluoto bridge by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8447/7857951104_7ab11f7701_b.jpg" width="1024" height="601" alt="Raippaluoto bridge" /></a></p>
+<h2 id="becker-gear">Becker Gear</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7938787812/" title="Organic vs. Death by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8042/7938787812_7d9e6fb964_b.jpg" width="1024" height="680" alt="Organic vs. Death" /></a></p>
+<p><a href="http://www.beckergear.com">Becker Gear</a> is another Alaskan framebag maker that offers custom work.</p>
 
-<p>I cycled back to the road which would take me to Köklot. To my surprise there was a lot of traffic on it, and it being a side road the drivers seemed to even get more idiotic in terms of how fast they went. I was pondering what would be the most effective way to educate these lunatics in their cars, but ended up wondering if there are mobile EMP weapons which could take out cars in a radius of several hundred meters around me. That’d ensure that none but the oldest cars would go off coming close to me, and I would be safe from racing drivers [If someone needs an Alpha/ Beta Tester for EMP weapons for cyclists, I’m available].</p>
+<h2 id="jpaks">J.Paks</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7938768418/" title="Brännved by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8448/7938768418_1d8465731b_b.jpg" width="1024" height="680" alt="Brännved" /></a></p>
+<p><a href="http://www.jpaks.com">J.Paks</a> packs are made in Denver, Colorado. They have besides the standard flavours of framebags also many special versions available, like an insulated stash bag.</p>
 
-<p>While the road was scenic, I was happy to reach the beach I aimed for. It was still plenty early, and it wouldn’t be dark till 22 o’clock. I drove down and was delighted to find such a fine beach all to myself, well, maybe it wasn’t such a surprise as it started to rain. I put on my Rab Pulse and took shelter at one of the dressing cabins, while putting my <a href="http://youtu.be/Pj8sfJ2k7Yo">stove</a> on to boil some water for a hot cup of cappuciono and dinner. The clouds were doing their thing in the sky, while I carved myself a spoon, which I left at home to safe weight. I was happy.</p>
+<h2 id="nuclear-sunrise-stitchworks">Nuclear Sunrise Stitchworks</h2>
 
-<blockquote>
-  <p>It’s a good trade-off to take a 42 gram knife instead of a 18 gram spoon -the knife is multi-purpose!</p>
-</blockquote>
+<p><a href="http://www.nukesunrise.com">Nuclear Sunrise Stitchworks</a> packs are made in El Paso, Texas. Get every framebag possiblity from them.</p>
 
-<p>After dinner I decided to take a look at Köklot, the tiny settlement a few more kilometers down the road; conveniently the rain stopped, too. Also, while the beach was beautiful, it was a tad too close for my taste to the street and was facing south, which meant I might not see that sunrise I hoped for. Back on the street, all drivers finally seemed to have reached the places which they were in such a hurry to reach.</p>
+<h2 id="oveja-negra">Oveja Negra</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7938803200/" title="Road to Köklot by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8180/7938803200_db405b6fe1_b.jpg" width="1024" height="681" alt="Road to Köklot" /></a></p>
+<p><a href="http://www.ovejanegrathreadworks.com/">Oveja Negra</a> offers the whole bikepacking setup, from stock half frame bags to full custom bags. Based in Salida, Colorado.</p>
 
-<p>I passed a small fishing harbour, and a gorgeous sunset was on display at the horizon. Rain could be seen going north, and it was a pretty sight, with a few sailing boats out on the sea. I continued and drove into Köklot, where warm yellow light came through windows, but no one was to be seen on the street. Riding down a street brought me to an east facing shore, but all possible pitches were on someones land, so off limit.</p>
+<h2 id="wanderlust">Wanderlust</h2>
 
-<p>I continued through the settlement for a bit, in the hope that there’d be some nice place somewhere close to the east-facing shore to pitch my tarp, but no luck. The sun now already set it was time to switch on my <a href="http://www.knog.com.au/gear-lights/boomer-rechargeable.phps">Knog Boomer USB lights</a> just in case one of those drivers decided to go out again for a ride, and cycled the few kilometers back to the beach.</p>
+<p><a href="http://wanderlust-gear.com">Wanderlust</a> is the former <a href="http://hansbagworks.com">Hans Bagworks</a> and you can get Framebags and Handlebar bags as well as some accessories from them. They’re based in Harrisonburg, Virginia.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7855481330/" title="Pimpin' at the beach by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8429/7855481330_49fdb544f6_b.jpg" width="1024" height="681" alt="Pimpin' at the beach" /></a></p>
+<h2 id="rogue-panda-designs">Rogue Panda Designs</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7855623042/" title="Cloudporn by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8298/7855623042_1240cc747c_b.jpg" width="1024" height="680" alt="Cloudporn" /></a></p>
+<p><a href="http://roguepanda.com">Rogue Panda Designs</a> is from Flagstaff, Arizona and makes seatbags, handlebar rolls, framebags and also lightweight panniers.</p>
 
-<p>Back at the beach I looked for good spots to camp. Off into the forest I went, though between boulders large and small - these islands being created by the last ice age, they’re all rock - I didn’t find anything. Close to the beach there was a tiny patch of grass, just big enough, but it was at the end of the road, and I like my camps a tad more sheltered. On the sandy beach then I found one good spot. I put on my <a href="http://www.avantlink.com/click.php?tt=cl&amp;mi=10060&amp;pw=73183&amp;url=http%3A%2F%2Fwww.backcountry.com%2Fmountain-hardwear-nitrous-down-jacket-mens">Mountain Hardwear Nitrous Down Jacket</a> and started to unpack, as I heard some hubbub from the street.</p>
+<h2 id="bolder-bikepacking-gear">Bolder Bikepacking Gear</h2>
 
-<p>Hmmm. I waited, and shortly after a guy with a reindeer skin and some booze appeared. He walked straight to the shore, where he stood still, looking out on the water. Engine noise appeared, and a boat entered the bay, riding up to the shore. Reindeer man jumped in, and off they went. <em>Well, that was lucky</em>, I thought.</p>
+<p><a href="https://bolderbikepacking.wordpress.com">Bolder Bikepacking Gear</a> has been making bikepacking gear in Boulder, Colorado since 2010. You can get the whole bikepacking setup from them.</p>
 
-<p>Or not. I just got the tarp out of the handlebar pack when a car drove down to the shore. Well, swell. It was ten o’clock by now, I was ready for bed, but not with a bunch of people coming to party where I planned to camp. Somehow that possibility didn’t even cross my mind as I picked this beach as a camping spot, though in hindsight it was obvious that also others might find this Friday evening a good time to go partying at <em>this beach</em>, which was so conveniently close located to the street.</p>
+<h2 id="andrew-the-maker">Andrew The Maker</h2>
 
-<blockquote>
-  <p>I packed up in the dusk, and headed back up to the street, leaving the party beach behind. I decided to look for a place to camp on the road back to Vaasa, but was not very optimistic.</p>
-</blockquote>
+<p><a href="http://atmhandmadegoods.com">Andrew The Maker</a> is a new framebag maker tht currently only offers a handlebar bag.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7855660892/" title="Rain by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8439/7855660892_9de34ce63b_b.jpg" width="1024" height="680" alt="Rain" /></a></p>
+<h2 id="phantom-pack-systems">Phantom Pack Systems</h2>
 
-<p>A few turns went of the main street which I drove up just a few hours earlier, but most were leading to summer cottages, which meant they were off limit. Those two that I went down were either un-safe - the noise of heavy forest machinery rang through the forest, explaining the deep tracks I drove through - or so hard and bumpy that even the <a href="http://www.avantlink.com/click.php?tt=cl&amp;mi=10060&amp;pw=73183&amp;url=http%3A%2F%2Fwww.backcountry.com%2Ftherm-a-rest-neoair-xtherm-sleeping-pad">NeoAir XTherm</a> I brought would not be enough to give me a comfortable sleep. An hour and 15 km later I was back at the highway to Vaasa, and another hour and another 15 km later I was just a bit past midnight back at home. My 24 trip was just a bit over nine hours.</p>
+<p><a href="http://www.phantompacksystems.com">Phantom Pack Systems</a> are a maker from Canada and also offer the full bikepacking framebag setup.</p>
 
-<p>While I was a bit disappointed by not sleeping outside - I looked forward to the sound of rain on my tarp and the sunrise - it was a fine ride. I cycled some 70 km, saw some nice places, and was exploring my new surroundings. I also learned to not pick camp places which are too close to a street - something to remember on my next 24 trip, which is just around the corner!</p>
+<h2 id="crater-packs">Crater Packs</h2>
 
-<p><strong>Have you had failed trips? Tell us - what went wrong, and why? What lessons did you learn?</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Bikepacking in Pirkanmaa]]></title>
-    <link href="http://hikinginfinland.com//2012/06/bikepacking-in-pirkanmaa.html"/>
-    <updated>2012-06-19T22:45:00+03:00</updated>
-    <id>http://hikinginfinland.com//2012/06/bikepacking-in-pirkanmaa</id>
-    <content type="html"><![CDATA[<p><a href="http://www.hikinginfinland.com/2011/09/driving-in-mud-rain.html">My bike</a> has given me the evil eye lately. It’s not that it doesn’t get used - it gets used daily on my commute to our house that I’m renovating, grocery shopping, and some fitness rides - but that it doesn’t get used enough on the singletrack trails and backend roads that it was made for. So when the three family dads of this story finally found a few free days where everyone was exempt from work and family duties, and my bike heard about it, she started to give me less trouble.</p>
+<p><a href="http://craterpacks.com">Crater Packs</a> are made in Telluride, Colorado. They make frame bags, seat packs and handlebar bags from cuben and vinyl.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7382017036/" title="Le Ride by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7090/7382017036_bf756dbd48_c.jpg" width="800" height="531" alt="Le Ride" /></a></p>
+<h2 id="cleaveland-mountaineering">Cleaveland Mountaineering</h2>
 
-<!-- more -->
+<p><a href="http://cleavelandmountaineering.blogspot.fi">Cleaveland Mountaineering</a> is located in Grand Junction, Colorado and makes custom frame packs, handlebar bags, Everything bags and top tube bags.</p>
 
-<p>To celebrate the occasion of the first bikepacking trip, I took her to the mechanic who fixed her bent rear derailleur, and as a surprise there was a full set of white XPac <a href="http://www.porcelainrocket.com">Porcelain Rocket frambags</a> waiting for her to be dressed up with. After that she was so happy, that the daily commute on asphalt didn’t bother her anymore - soon she’d be joined by two fine bikes on the trails and roads of Pirkanmaa, and she was eager for it.</p>
+<h2 id="jandd">Jandd</h2>
 
-<p>Toni and Peter life in Turku, while I now hail from Vaasa, so we decided to meet in Pirkanmaa, which is fairly in the middle of us three. Parkano with its railway station close to the Pirkan Taival trail was made the starting point, and after an uneventful trip for me, I was before noon there. Checking Twitter, I had a few messages from Toni and Peter that VR managed to fuck up again (they call it technical problems, I call it running a business very inefficiently) and that they’d be late. Swell. I sat down to make lunch and a hot drink, after which a short phone call with Peter confirmed that they’d be here at around 15.45. Happily there was an electricity outlet to keep the iPhone charged, and I also had <a href="http://amzn.to/LRcEbu">a good book</a> with me to keep me entertained.</p>
+<p><a href="http://www.jandd.com/bikes.asp">Jandd</a> has been making bags since 1983 (!) and offers a wide variety of bikepacking bags.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7382012782/" title="Waiting at Parkano Railway station by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7072/7382012782_0d1c9620cc_c.jpg" width="800" height="531" alt="Waiting at Parkano Railway station" /></a></p>
+<h2 id="lone-mountain-innovations">Lone Mountain Innovations</h2>
 
-<p>VR managed to deliver Toni and Peter with bikes on time to Parkano, and while we had a brief chat about route, tire pressure and general chit chat, our bikes sniffed each others rear wheels, much like dogs do. Toni came, much to my pleasure, with his 9:Zero:7 fatbike, which is something to be seen in Person to understand how awesome these are. I also quickly saw that Toni and I are about the same height, so a test ride on his bike later on should be possible. Peter came on his Salsa Fargo, which looked like a sweet ride, too - but Peter being rather tall, a test ride would be out of the question. But the bikes were happy and ready, and so we set off.</p>
+<p><a href="http://lonemountaininnovations.com">Lone Mountain Innovations</a> has been making framebags. They’re currently re-designing their products and will be back in a few months, so keep an eye on them.</p>
 
-<p>Into a Military Zone. While checking smartphones and maps, a officer drove up, and inquired what we were up to. After taking our social security numbers and names, he led us to the “right” road - the road I wanted to avoid, as I found it boring when I walked it the last time, but well, if it brings us to our goal, so be it.</p>
+<h2 id="randi-jo-fabrications">Randi Jo Fabrications</h2>
 
-<p>We rode for one and a half hour before arriving at the Seitseminen Visitor Centre, which was open for another 30 minutes. Loading up on food and each of us buying a map, we sat there, enjoyed our hamburgers, coffee and cake, and decided how to go forward. A short consultation with the staff of the Visitor Centre confirmed that all trails are open for cyclists in the National Park, and that the especially marked cycling trails are just a bit wider. Swell news - Lets roll.</p>
+<p><a href="http://randijofab.com">Randi Jo Fabrications</a> offers a lot of cycling gear, from bags to caps and saddle covers. Their bags are made from waxed canvas which looks pretty nice.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7399981834/" title="Peter shows how to ride planks. by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7215/7399981834_cc9a988a8a_c.jpg" width="800" height="531" alt="Peter shows how to ride planks." /></a></p>
+<h2 id="rockgeist">RockGeist</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7399997138/" title="Toni on the singletrack by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7077/7399997138_992065a3fd_c.jpg" width="800" height="531" alt="Toni on the singletrack" /></a></p>
+<p><a href="http://rockgeist.com">RockGeist</a> builds <em>custom bikepacking gear designed for you and your bike</em>. From Saddlebags over partial and full frame bags to top tube bags, they make them all and for pretty good prices, too.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7400017582/" title="More duckboards, more Cottongrass by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8151/7400017582_61ec646d44_c.jpg" width="800" height="531" alt="More duckboards, more Cottongrass" /></a></p>
+<h2 id="arkel">Arkel</h2>
 
-<p>While I have ridden a bit on trails, it was nothing like this. This was, in the words of Toni &amp; Peter - ‘<i>Awesome singletrack</i>’. While the two raced speedily over the trails and duckboards, yours truly and his steed took a bit slower, to gather up the skills and balls that it takes to ride down steep, rocky singletrack. We made good speed and drove, with plenty of little breaks, onwards to Kovero, the old croft in the National Park, where we rested for a bit.</p>
+<p><a href="http://www.arkel-od.com/en/bikepacking.html">Arkel</a> from Canada, well-known for building pannier bag, now also offers a Seatpack and a handlebar bag is coming soon.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7400019436/" title="Door handle by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7092/7400019436_cdf290bba1_c.jpg" width="800" height="531" alt="Door handle" /></a></p>
+<h2 id="green-guru-gear">Green Guru Gear</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381904438/" title="Kovero by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7074/7381904438_592d804688_c.jpg" width="800" height="531" alt="Kovero" /></a></p>
+<p><a href="http://www.greengurugear.com/collections/bike-gear?page=2">Green Guru Gear</a> hails from Boulder, Colorado and offer bikepacking bags in cool colours from recycled fabrics, and everything should be unique because of that.</p>
 
-<p>Then it went forward over forest roads towards our chosen campsite at Löyttöjärvi, with a short stretch of trail as a shortcut. It was a nice stretch, but it was getting late, and I felt my attention wane, and was happy as we reached the forest road. Just another hour and a half till we’d be there; happily my <a href="http://www.porcelainrocket.com/products/accessory-packs/top-tube-pack/">PR Top Tube Pack</a> held a good amount and variety of chocolate bars - useful for quick energy, I just need to work on how to open them with one hand.</p>
+<h2 id="topeak">Topeak</h2>
 
-<p>Arriving at camp, a fire needed starting; not because it was cold, but looking at an empty fire pit is just, hmm, not very interesting. Toni &amp; Peter designated me to have the honour to start it, as I’m the <em>professional</em> =) A few minutes later, we were sitting on the bench, starring into the Wilderness TV, pondering what to do next. Ah ja, there was this thing with food. Gas stoves were brought up from the depth of frame packs, and quickly water was boiling, meals were hydrated &amp; consumed.</p>
+<p><a href="https://www.topeak.com/global/en/products/bags">Topeak</a> offers top tube bags, and a onesize-fits-all frame bag, ahandlebar bag and a saddle bag should be coming soon.</p>
 
-<p>On the Tuesday the same week I went to get a pad &amp; some other kit from my in-laws, where I have my outdoor gear stored. Of course I managed to forget to take the pad among the other stuff I took, so all I had were six segments of a ZLite, which was really pushing it (in hindsight I should have brought ten, I had the space and segements) but I managed to find a comfortable spot for my bivy nevertheless. The weather was so good, and the sky clear, that I didn’t bother pitching my shelter, though the bug free environment which Peter had under his Double Rainbow would have been welcome. The sound of billions of mosquitos soon had me sleeping, though, even if a bit more distance between them and me would have been cool.</p>
+<h2 id="high-above">High Above</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7400016170/" title="At camp by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7234/7400016170_c202f9c3ac_c.jpg" width="800" height="531" alt="At camp" /></a></p>
+<p><a href="http://highabove.squarespace.com">High Above</a> from Bellingham, Washington, makes hip packs for riding your bike.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7382014094/" title="Peter at Camp by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5116/7382014094_a3a7c47f21_c.jpg" width="800" height="531" alt="Peter at Camp" /></a></p>
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/7855481330" title="Pimpin&#x27; at the beach by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8429/7855481330_49fdb544f6_b.jpg" width="1024" height="681" alt="Pimpin&#x27; at the beach" /></a></p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381684016/" title="A bike and a bivy. by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8148/7381684016_83a096ac95_c.jpg" width="800" height="531" alt="A bike and a bivy." /></a></p>
+<h1 id="european-makers">European Makers</h1>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7400016860/" title="Morning glory by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7239/7400016860_cd193e45a8_c.jpg" width="800" height="531" alt="Morning glory" /></a></p>
+<h2 id="miss-grape">Miss Grape</h2>
 
-<p>I woke up at 6.30 in the morning, and carefully rising to see if either of my companions were up already, which wasn’t the case, I lay down again and went back to sleep. 90 minutes later I saw Peter up, and despite the army of mosquitos hovering above me, I got out of the bivy and into my Arc’teryx Palisade pants and Rab Pulse jacket to keep them off. A cup of coffee was all we three had for breakfast, as the lack of water at the camping spot hindered us from going very fancy in terms of cooking.</p>
+<p><a href="http://www.missgrape.net">Miss Grape</a> hails from beautiful Italy and makes the whole set of bikepacking bags for your adventure needs.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381885298/" title="Toni enjoying himself by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7232/7381885298_82f0781c4e_c.jpg" width="800" height="531" alt="Toni enjoying himself" /></a></p>
+<h2 id="endless-trails-outdoor-equipment">Endless Trails Outdoor Equipment</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381908286/" title="On the way to Kuru by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5323/7381908286_d0c06e1782_c.jpg" width="800" height="531" alt="On the way to Kuru" /></a></p>
+<p><a href="http://endlesstrailsoutdoorequipment.com/?v=f003c44deab6">Endless Trails Outdoor Equipment</a> hails from Sweden makes the whole set of ultralight bikepacking bags, from Single Closure Handlebar Bag to a Bar Bottle Bucket.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381648362/" title="My ride on the Pirkan Taival Trail by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7222/7381648362_2ea44868f8_c.jpg" width="800" height="531" alt="My ride on the Pirkan Taival Trail" /></a></p>
+<p><a data-flickr-embed="true" href="https://hikinginfinland.com/2015/02/bikepacking-bag-manufacturers.html" title="Endless Trails Outdoor Equipment"><img src="https://c6.staticflickr.com/8/7599/27192571221_abea5fc67c_b.jpg" width="1024" height="784" alt="Endless Trails Outdoor Equipment" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
-<p>Some very fine singletrack brought us to my old school, where we tanked up on water. Peter and Toni found it too late for breakfast now, and so we rode on - until Toni stopped at the Kuru Hardware Store to find some screws for his fenders, which were misbehaving.</p>
+<h2 id="gramm-tourpacking">Gramm Tourpacking</h2>
 
-<p>After riding out of Kuru on the street we soon took a turn and were on one of the silent backroads which criss-cross the Pirkanmaa. Rolling hills, partly over asphalt, mostly on grit, with less than five cars passing us on some 25 km - fine riding. Up, down, curves, straight, forest, fields, lakes, tiny villages, summer cottages, farms, more forest - this is Finland at its best, experienced in the best way.</p>
+<p><a href="http://www.gramm-tourpacking.com">Gramm Tourpacking</a> makes their pretty bags in Berlin, Germany, and everything and then something you can get from them.</p>
 
-<p>We roll down a grit road to a jetty, where we have lunch. As I’m looking for a way to get water from the lake, I spot a nest - with two hatching eggs. Excited we snap a few photos before the parents return, and keep a save distance to not disturb them, or to agitate the parents. Meals are consumed, coffees drunk, dishes cleaned and we continue. The parents return to the nest as we leave, surely happy that these intrudes were more interested in their own food than their offspring.</p>
+<h2 id="cordel">Cordel</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381903074/" title="Lunch break by HendrikMorkel, on Flickr"><img src="http://farm8.staticflickr.com/7243/7381903074_0c1ea5f726_c.jpg" width="800" height="531" alt="Lunch break" /></a></p>
+<p>Made in Madrid, Spain, are the bags from <a href="http://www.cordelcycling.com">Cordel</a>. The selection is limited - a handlebar bag and a bum bag - but I expect there’s more to come!</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381910156/" title="Hatching by HendrikMorkel, on Flickr"><img src="http://farm6.staticflickr.com/5039/7381910156_7f83d47e04_c.jpg" width="800" height="531" alt="Hatching" /></a></p>
+<h2 id="restrap">Restrap</h2>
 
-<p>We continue over the same kind of fine roads for a dozen or so kilometers, and it is here that I try Toni’s fatbike. Wow, how much fun - and so fast! I thought it would be sluggish going on the asphalt, but it is quick and feels even faster than my own bike. We switch bikes again and continue, until we hit the highway. Before we join trucks and cars, we first have a quick stop at the Supermarket: Toni and Peter to have an ice cream, me to restock on chocolate bars and some juice. Then, on the side of the road we cycle onwards, the trucks and cars rushing passed us, but always trying to stay as far away as possible from us. Nevertheless, really comfortable I don’t feel here, and am happy as we turn on the old highway, which sees a lot less traffic - and after some ten kilometers or so even has a cycling path going till Tampere!</p>
+<p>Coming from the United Kingdom is <a href="http://www.restrap.co.uk">Restrap</a> who not only make frame-, seat and handlebar bags but also backpacks and other accessoires.</p>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381978006/" title="Cycling uphill by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8153/7381978006_143cd7c3ea_c.jpg" width="800" height="531" alt="Cycling uphill" /></a></p>
+<h2 id="everbike">Everbike</h2>
 
-<p><a href="http://www.flickr.com/photos/hendrikmorkel/7381972826/" title="Ice cream break by HendrikMorkel, on Flickr"><img src="http://farm9.staticflickr.com/8011/7381972826_f3c4c9f4ca_c.jpg" width="800" height="531" alt="Ice cream break" /></a></p>
+<p><a href="http://www.everbike.cz">Everbike</a> from the Czech Republic offers seat bags, handlebar bags and different accessoiries.</p>
 
-<p>We roll into Tampere at pretty much four o’clock in the afternoon, the sun high in the sky. Peter had some problems with his bike, so I show him <a href="http://www.rtechsuspension.fi/">R-Tech Suspension</a>, Tampere’s finest bike shop, where his bike was fixed quickly while we sat and ate - first some sandwiches, then some more ice cream.</p>
+<h2 id="burgfyr">BURGFYR</h2>
 
-<p>And so it ends. I head in time to the Railway Station to catch my train back to Vaasa, while Toni and Peter continued to explore the south of Tampere. You definitely should read and see their account of the trip, by the way: <a href="http://www.yetirides.com/2012/06/bikepacking-in-pirkanmaa.html">Peter</a>, <a href="http://tonilund.blogspot.fi/2012/06/pirkanmaa-tour-i.html">Toni</a> and <a href="http://www.flickr.com/photos/hendrikmorkel/sets/72157630149618156/">More of my photos</a>.</p>
+<p><a href="http://burgfyr.de">BURGFYR</a> is a German framebag manufacturer which has really good prices. They ofer framebags, seatbags, feedbags for your handlebar and accessories. They also offer used bags which need a new home!</p>
 
-<p><strong>Lessons learned</strong>? It is hard to put into words or photos the immense fun this trip was. We covered 135 km in about 24 hours, 55 km on Thursday, and 80 km on Friday - I didn’t even think I’d be capable of riding that far, and am sure that without Peter &amp; Toni wouldn’t even have tried - it is great if someone pushes you over your boundaries.</p>
+<h2 id="apidura">Apidura</h2>
 
-<p>Riding singletrack like the one in Seitseminen with a full bikepacking setup also was a first for me, and lots of fun - duck boards seem challenging, but once you realize that you can do it, it is no problem and good, adrenaline-infusing fun. As is going downhill and fast on curvy forest paths.</p>
+<p><a href="https://www.apidura.com">Apidura</a> is a British company which makes frame bags, seat bags, handlebar bags and top tube bags - the whole shebang thus - in standard sizes. Measure your bike, pick the bags and your ready to go!</p>
 
-<p>Ultralight backpacking gives you the gear and skills to try <a href="http://www.hikinginfinland.com/2011/05/bikepacking-in-finland.html">bikepacking</a>. Yes, you need some additional storage options (and let me tell ya, my Porcelain Rocket frame packs are the sexiest pieces of gear I’ve got in a looooong time), and here you can either use what you have and do some MYOG goodies, or go down the custom-made route. Though in terms of camping gear you are very well equipped already, and your small, light and compact kit makes a perfect setup for bikepacking.</p>
+<h2 id="inuvik-studio">Inuvik Studio</h2>
 
-<p>Photo wise I think Toni and Peter had an interesting setup - both used a LowePro Slingshot which allowed them to have the camera really quickly in their hands, additionally Peter used a point-and-shoot to take photos while riding. I think you can easily see that they have more experience in this discipline than me, and if you want to see some photos of my riding you need to check out their posts =) I on the other hand set on hydration and had a Osprey Raptor 18 on my back, which also carried my camera - but it wasn’t as quick and accessible as Peter &amp; Toni’s setup. I’m pondering if a small point and shoot would be useful for taking photos while riding, and using the Sony NEX-5N when I stop.</p>
+<p><a href="http://www.inuvik.es">Inuvik Studio</a> produces their framebags and Top Tube bags in beautiful Spain.</p>
 
-<p>Anyway. I’m hooked. Negotiations are on-going to broker for more free time for bikepacking trips, possibly with the additional use of something inflatable to be used with a paddle. And a re-run of this trip is in the planning for the autumn. Same cast, other bikes, same fun. Thank you Toni and Peter, looking forward to ride again soon!</p>
+<p><a href="https://hikinginfinland.com/2015/02/bikepacking-bag-manufacturers.html" title="Apidura Website by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8662/16007444033_7343c4d374_b.jpg" width="1024" height="617" alt="Apidura Website" /></a></p>
+
+<h2 id="spk-werks">SpōK Werks</h2>
+
+<p><a href="http://www.spokwerks.com/bikepacking-gear.html">SpōK Werks</a> is a German maker of framebags, with the whole setup available.</p>
+
+<h2 id="bike-pack">Bike Pack</h2>
+
+<p><a href="http://bikepack.pl/en/">Bike Pack</a> hails from Poland. They make all sort of frame bags and do so for a very good price.</p>
+
+<h2 id="parsley-bags">Parsley Bags</h2>
+
+<p><a href="http://www.parsleybags.com/">Parsley Bags</a> is another German maker. The main business is for classic cycle-touring gear, but there’s also a seatbag available.</p>
+
+<h2 id="alpkit">Alpkit</h2>
+
+<p><a href="https://www.alpkit.com/bikepacking">Alpkit</a> nowadays also make the whole setup. Framebags are custom-made while seatpacks, top tube bags and handlebar bags are standards.</p>
+
+<h2 id="wildcat-gear">Wildcat Gear</h2>
+
+<p><a href="http://www.wildcatgear.co.uk">Wildcat Gear</a> are from Wales and offer the whole framebag setup, both basic and custom options.</p>
+
+<h2 id="bikebag">BikeBAG</h2>
+
+<p>Jon and Helen from <a href="http://www.bike-BAG.co.uk">BikeBAG</a> are another UK maker of framebags. Only custom framebags are available.</p>
+
+<h2 id="ortlieb">Ortlieb</h2>
+
+<p><a href="https://www.ortlieb.com/en/bikepacking/">Ortlieb</a> from Germany, another company know for their bombproof panniers, is now making the full set of bikepacking bags.</p>
+
+<h2 id="carradice">Carradice</h2>
+
+<p><a href="https://www.carradice.co.uk">Carradice</a> from the UK now also offers some bikepacking packs. They’re made from waxed canvasand look more classical.</p>
+
+<h1 id="rest-of-the-world">Rest of the World</h1>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/16440220550" title="Wanderlust Equipment Website by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8631/16440220550_f24609baa9_b.jpg" width="1024" height="609" alt="Wanderlust Equipment Website" /></a></p>
+
+<h2 id="wanderlust-equipment">Wanderlust Equipment</h2>
+
+<p><a href="http://wanderlust-equipment.com/products/g219-blade-frame-bag/">Wanderlust Equipment</a> from Japan makes a half frame bag to order. They look pretty neat and the craftsmanship should be superb!</p>
+
+<h2 id="bike-bag-dude">Bike Bag Dude</h2>
+
+<p>The <a href="http://www.bikebagdude.com">Bike Bag Dude</a> is from Australia and offers standard bags and custom work, the whole range of framebags as well as Anything Cage Bags and Chaff Bags. They’re also a dealer for <a href="http://www.bikebagdude.com/#!oveja-negra-accessories/c1jyy">Oveja Negra Threadworks</a> framebags in Australia.</p>
+
+<h2 id="hunt-bikes">Hunt Bikes</h2>
+
+<p>Another Australian company, <a href="http://huntbikes.com/collections/bike-bags">Hunt Bikes</a> has the Hunt Bikes bikepacking bag collection which makes some nice black packs for your bike. While you’re shopping with them you might as weel pick up one of their awesome bikepacking frames!</p>
+
+<h2 id="myog">MYOG!</h2>
+
+<p>Don’t want to spend money on a framebag? That’s not needed if you can use a sewing machine. Here are a couple of Guides to get you started:</p>
+
+<p><a href="http://www.pedalingnowhere.com/gear/how-to-make-a-bikepacking-framebag-krampus/">Making a simple frame bag for the Krampus</a>.</p>
+
+<p><a href="http://youtu.be/oWDRiexLA0I">How to make your own frame bag for bikepacking Video</a>.</p>
+
+<p><a href="http://www.tourintune.com/constructing-my-diy-frame-bag/">Constructing My DIY Frame Bag</a>.</p>
+
+<p><a href="http://www.shanecycles.com/make-your-own-gear-myog-bikepacking-frame-bag/">Make your own gear (MYOG) Bikepacking frame bag</a>.</p>
+
+<p><a href="https://www.flickr.com/photos/hendrikmorkel/15923653420" title="Salsa Mukluk on the ice by Hendrik Morkel, on Flickr"><img src="https://farm9.staticflickr.com/8605/15923653420_5b51d86efe_b.jpg" width="1024" height="683" alt="Salsa Mukluk on the ice" /></a></p>
 ]]></content>
   </entry>
   
